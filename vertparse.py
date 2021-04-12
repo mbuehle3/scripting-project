@@ -51,20 +51,33 @@ def get_species(VertDf):
     species_num = species.value_counts()
     return species, species_num
 
-def get_genus(Vertdf,column ,genus):
-    '''
-    '''
-    genus = Vertdf.loc[Vertdf[column] == genus]
+def search_data(Vertdf,column ,keyword):
+    """
+    Search a specific column for a provided keyword.
+    The returned object will contain only records that match the keyword provided
+    
+    """
+    genus = Vertdf.loc[Vertdf[column] == keyword]
 
     return genus
 
 
 def get_catalog(VertDf):
+    """
+    Extract the institution code and catalog number from a provided dataframe
+    
+    """
+
     catalog = VertDf[['institutioncode','catalognumber']]
     museum_num = catalog.iloc[:,0].value_counts()
     return catalog, museum_num
 
 def plot_VertData(VertDf, zoomscale=3):
+    """
+    Plot a data frame using a blue circle on a world map.
+    Zoomscale can be changed to zoom in more    
+    """
+
     coord = get_coord(VertDf)
     zoom_scale = zoomscale
     bbox = [coord.iloc[:,0].max()+zoom_scale,coord.iloc[:,0].min()-zoom_scale,coord.iloc[:,1].max()+zoom_scale, coord.iloc[:,1].min()-zoom_scale]
@@ -78,16 +91,32 @@ def plot_VertData(VertDf, zoomscale=3):
     plt.show()
     
 def missing_coord(VertDf):
+    """
+    Calculate how many records are missing coordinate data
+    
+    """
+
     coord = get_coord(VertDf)
     miss = coord.iloc[:,1].isna().value_counts()
     total = len(VertDf)
     return miss, total
 
 def get_countries(VertDf):
+    """
+    Extract countries from a dataframe
+    
+    """
+
     country = VertDf[['country']]
     return country
 
 def essential_data(VertDf,*argv):
+    """
+    Subsample user-defined columns in the dataframe.
+    argv can be passed as a list (list = ['item1', 'item2])
+    
+    """
+
     essential = pd.DataFrame()
     for arg in argv:
         essential[arg] = VertDf[arg]
@@ -95,6 +124,11 @@ def essential_data(VertDf,*argv):
     return essential
 
 def basic_data(VertDf):
+    """
+    Export a handful of columns that are generally useful for tables, and contain the most information
+    
+    """
+
     list = ['institutioncode','catalognumber','scientificname','country','decimallatitude', 'decimallongitude']
     basic = pd.DataFrame()
     for item in list:
