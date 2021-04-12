@@ -19,30 +19,23 @@ def read_VertData(n):
         # for record in input_parsed:
         #     # print(record)
         #     record_list.append(record)
-def clean_VertData(VertData):
+def clean_VertData(VertDf):
     """
     Remove empty columns from the dataset and print to a smaller file.
     Returns a provided VertObject where columns with no data have been removed from the dataset. 
     Overwrites the object initially created using the read_VertData() function
     """
-    data = read_VertData(VertData).dropna(how='all', axis = 1 , inplace=False)
+    data = VertDf.dropna(how='all', axis = 1 , inplace=False)
     return data
 
-def write_VertData(VertData,types):
+def write_VertData(VertDf):
     """
     Write the pandas dataframe to an external file. 
     Useful for exporting cleaned datafiles for easier file manipulation in excel or libreoffice
     """
     # print(sys.argvs[2])
-    a = read_VertData(VertData)
-    b = clean_VertData(VertData)
-    if types == 'all':
-        a.to_csv('all-output.txt', header = True, index = False)
-    elif types == 'clean':
-        b.to_csv('cleaned-output.txt', header = True, index = False)
-    elif types != "clean" or "all":
-        print("Expecting either clean or all for argument types")
-
+    VertDf.to_csv('output.txt', header = True, index = False)
+   
 def get_coord(VertDf):
     """
     Extract the coordinates for each record
@@ -57,6 +50,14 @@ def get_species(VertDf):
     species = VertDf['scientificname']
     species_num = species.value_counts()
     return species, species_num
+
+def get_genus(Vertdf,column ,genus):
+    '''
+    '''
+    genus = Vertdf.loc[Vertdf[column] == genus]
+
+    return genus
+
 
 def get_catalog(VertDf):
     catalog = VertDf[['institutioncode','catalognumber']]
@@ -92,6 +93,14 @@ def essential_data(VertDf,*argv):
         essential[arg] = VertDf[arg]
 
     return essential
+
+def basic_data(VertDf):
+    list = ['institutioncode','catalognumber','scientificname','country','decimallatitude', 'decimallongitude']
+    basic = pd.DataFrame()
+    for item in list:
+        basic[item] = VertDf[item]
+
+    return basic
 
 # def tex_table(VertDf):
     
