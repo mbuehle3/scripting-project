@@ -1,0 +1,2516 @@
+institutioncode,catalognumber,scientificname,country,decimallatitude,decimallongitude
+AM,R.116304,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110275,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.110303,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.104020,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.104015,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116360,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.45820,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.116344,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116314,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109717,Laticauda laticaudata,Vanuatu,-17.783,168.25
+AM,R.138635,Laticauda saintgironsi,New Caledonia,-22.55,167.416
+AM,R.101193,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.110281,Laticauda saintgironsi,New Caledonia,-22.266,166.433
+AM,R.116556,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.109656,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144026.002,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.109686,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109886,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.45793,Laticauda colubrina,,-5.95,155.333
+AM,R.116611,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.124894,Laticauda colubrina,,-9.25,152.933
+AM,R.116354,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116614,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101217,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.110053,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109655,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101197,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109662,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109672,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.116622,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109716,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.109735,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116540,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.144071,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.116618,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116369,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116536,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116523,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116272,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.101212,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116312,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144025,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.116287,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.101181,Laticauda colubrina,Solomon Islands,-11.833,160.466
+AM,R.116303,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116289,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116366,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109727,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101191,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.101225,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.123460,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.109698,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116296,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116362,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116399,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109644,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116604,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.45819,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.144094,Laticauda saintgironsi,New Caledonia,-20.30361,164.09749
+AM,R.104014,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.101291,Laticauda colubrina,Solomon Islands,-11.75,160.4
+AM,R.109703,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109706,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.144023,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.123463,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.109741,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116363,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116625,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.116566,Laticauda laticaudata,Fiji,-16.233,179.1
+AM,R.109713,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.109705,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110306,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116323,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109725,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109889,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116285,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.104041,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.110274,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.116290,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109932,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116538,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.78036,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.110301,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109664,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110255,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116357,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.45795,Laticauda laticaudata,,-10.6,150.65
+AM,R.110273,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.110272,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.109679,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.127264,Laticauda colubrina,Solomon Islands,-6.65,156.566
+AM,R.116325,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.138884.002,Laticauda frontalis,Vanuatu,-13.433,166.683
+AM,R.101189,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109647,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116550,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.116384,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.124893,Laticauda colubrina,,-9.25,152.933
+AM,R.116549,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.116295,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116319,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116396,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109702,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144054.002,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.144052.002,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.116311,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116278,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.78049,Laticauda laticaudata,New Caledonia,-20.216,164.0
+AM,R.110065,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.110251,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109894,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.144069,Laticauda saintgironsi,New Caledonia,-20.71333,165.02332
+AM,R.109696,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116326,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109681,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116539,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.109660,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109692,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.3424,Laticauda guineai,Papua New Guinea,-9.333,147.133
+AM,R.144025.003,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.101219,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.123468,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.144045,Laticauda laticaudata,Vanuatu,-17.78388,168.28221
+AM,R.144022.001,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.110245,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116316,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109700,Laticauda laticaudata,New Caledonia,-22.55,166.8
+AM,R.111328,Laticauda laticaudata,New Caledonia,-22.266,166.45
+AM,R.109879,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116546,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.109690,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.109893,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116619,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110249,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.110287,Laticauda saintgironsi,New Caledonia,-22.266,166.433
+AM,R.110279,Laticauda saintgironsi,New Caledonia,-22.266,166.433
+AM,R.144046,Laticauda laticaudata,Vanuatu,-17.78388,168.28221
+AM,R.123470,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.116355,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109934,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.101216,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116288,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110247,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109753,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116386,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.101221,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109711,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144024.001,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.104018,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116606,Laticauda frontalis,Vanuatu,-15.333,167.166
+AM,R.116534,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.123465,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.109721,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116532,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116525,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116300,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.104011,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.109625,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110070,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.110305,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109930,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116297,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116528,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116395,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.144020,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.116322,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116281,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110300,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109628,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109887,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116315,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.110254,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109663,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.124901,Laticauda colubrina,,-9.25,152.933
+AM,R.109719,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109699,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.121992,Laticauda colubrina,Vanuatu,-17.75,168.3
+AM,R.116328,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.121991,Laticauda saintgironsi,New Caledonia,-22.266,166.45
+AM,R.116298,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116602,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.123469,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.110269,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.116522,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.110252,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.144070,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.101292,Laticauda colubrina,Solomon Islands,-11.75,160.4
+AM,R.110052,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109645,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116552,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.144043,Laticauda colubrina,Vanuatu,-17.72054,168.17499
+AM,R.78031,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116615,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109728,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116377,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.116530,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.78041,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.109643,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116352,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109747,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109639,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116309,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109689,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109744,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101202,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.78043,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.78037,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116310,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144020.003,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.101187,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116601,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110073,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116351,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116383,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.109677,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116293,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109750,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.144095,Laticauda saintgironsi,New Caledonia,-20.30361,164.09749
+AM,R.104007,Laticauda crockeri,Solomon Islands,-11.75,160.416
+AM,R.109661,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116283,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109659,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116284,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.144022,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.123467,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.144051,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.109738,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144025.001,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.109684,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116381,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.101220,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.121990,Laticauda saintgironsi,New Caledonia,-22.266,166.45
+AM,R.116302,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110286,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.110067,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109678,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.144049,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.109632,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144025.002,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.123461,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.101204,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.90369,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.101293,Laticauda colubrina,Solomon Islands,-11.75,160.4
+AM,R.116282,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.101206,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109748,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109671,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.116623,Laticauda frontalis,Vanuatu,-17.616,168.5
+AM,R.116338,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109640,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109653,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109742,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.123458,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.78038,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.144055.001,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.101223,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.123459,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.125271,Laticauda colubrina,,-9.25,152.933
+AM,R.78044,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.109654,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.111329,Laticauda laticaudata,New Caledonia,-22.266,166.45
+AM,R.116553,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.101198,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116274,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.78042,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116555,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.109697,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116365,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.104010,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.144093,Laticauda saintgironsi,New Caledonia,-20.30361,164.09749
+AM,R.116321,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101208,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109884,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116341,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109642,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109724,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144090,Laticauda saintgironsi,New Caledonia,-20.383,164.133
+AM,R.109687,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109732,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116394,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109890,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109641,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.110248,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116375,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.110069,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.101188,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116333,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116531,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.144073.001,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.101196,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.69515,Laticauda guineai,,-9.416,146.933
+AM,R.109729,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.109683,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.116390,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109631,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116551,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.109896,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116332,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109626,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.78048,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.101194,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.101186,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109880,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116380,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.116533,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.101205,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.78035,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.109649,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144020.001,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.104006,Laticauda crockeri,Solomon Islands,-11.75,160.416
+AM,R.116346,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.124861,Laticauda colubrina,,-9.25,152.933
+AM,R.109740,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109650,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116621,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116391,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.116324,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109723,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116318,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101182,Laticauda colubrina,Solomon Islands,-11.833,160.466
+AM,R.110055,Laticauda colubrina,Fiji,-18.25,178.216
+BYU,7061,Laticauda colubrina schneider,Solomon Islands,-9.6508574,160.2297907
+BYU,31224,Laticauda colubrina schneider,Solomon Islands,-9.410851,-160.181275
+CAS,14997,Laticauda semifasciata,Japan,24.81083,125.33083
+CAS,216439,Laticauda colubrina,Myanmar,17.72072,94.53469
+CAS,216440,Laticauda laticaudata,Myanmar,17.72072,94.53469
+CAS,256564,Laticauda colubrina,Palau,7.361,134.4385833333
+CAS,14969,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14970,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14972,Laticauda colubrina,Singapore,1.3666666944,103.8
+MCZ,R-140734,Laticauda colubrina,Papua New Guinea,-9.5108695,147.262295
+MCZ,R-145940,Laticauda colubrina,Papua New Guinea,-10.3057065,150.44826
+MCZ,R-149695,Laticauda colubrina,Papua New Guinea,-9.5163043,147.1766848
+MCZ,R-152046,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-152048,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-154245,Laticauda colubrina,Papua New Guinea,-2.5706382,150.79306
+MCZ,R-25981,Laticauda semifasciata,Japan,24.783,125.333
+MCZ,R-48670,Laticauda colubrina,Solomon Islands,-9.0,160.1667
+MCZ,R-59126,Laticauda colobrina,Papua New Guinea,-9.4438405,147.2167577
+MCZ,R-59127,Laticauda colobrina,Papua New Guinea,-9.4438405,147.2167577
+MCZ,R-72060,Laticauda colubrina,Papua New Guinea,-5.7823193,154.7520158
+MCZ,R-928,Laticauda colubrina,Singapore,1.289162,103.8543
+MVZ,MVZ:Herp:274578,Laticauda colubrina,Indonesia,-5.6466712,132.6383123
+MVZ,MVZ:Herp:274581,Laticauda colubrina,Indonesia,-5.6466712,132.6383123
+MVZ,MVZ:Herp:40707,Laticauda colubrina,,7.7439875112,98.3728306719
+UCM,UCM:Herp:17828,Laticauda laticaudata affinis,Japan,26.37083,127.78667
+UCM,UCM:Herp:55732,Laticauda colubrina,Japan,26.64125,127.86431
+UCM,UCM:Herp:58881,Laticauda semifasciata,Japan,35.9999962,137.9999924
+USNM,213481,Laticauda colubrina,Papua New Guinea,-9.4358,147.141
+USNM,213480,Laticauda colubrina,Papua New Guinea,-9.4358,147.141
+AM,R.110064,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109710,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110054,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.110315,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144072,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.116605,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.124800,Laticauda colubrina,,-5.216,145.81388
+AM,R.109670,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.104008,Laticauda crockeri,Solomon Islands,-11.75,160.416
+AM,R.144024.002,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.110072,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116317,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.127266,Laticauda colubrina,Solomon Islands,-6.65,156.566
+AM,R.109882,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.144028,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.101325,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.116554,Laticauda colubrina,Tonga,-21.083,175.116
+AM,R.116616,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101190,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.110066,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.110062,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.138884.001,Laticauda frontalis,Vanuatu,-13.433,166.683
+AM,R.109635,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116393,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.116398,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.20883,Laticauda colubrina,Australia,-33.816,151.216
+AM,R.123462,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.109736,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116361,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.144077,Laticauda saintgironsi,New Caledonia,-20.26971,164.42027
+AM,R.116389,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.44395,Laticauda colubrina,Papua New Guinea,-11.2,153.0
+AM,R.116568,Laticauda laticaudata,Fiji,-16.233,179.1
+AM,R.109885,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.78032,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.78040,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116331,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109746,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.144079,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.116385,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.118103,Laticauda frontalis,Vanuatu,-17.616,168.5
+AM,R.109734,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144054,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.144055,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.144024,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.90371,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.109712,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.109730,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.110280,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.116526,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116291,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.101324,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.116353,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109627,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109688,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109708,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101184,Laticauda colubrina,Solomon Islands,-11.75,160.4
+AM,R.109673,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.116343,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116567,Laticauda laticaudata,Fiji,-16.233,179.1
+AM,R.116544,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.110057,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109751,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109895,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.78039,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.109754,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110059,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109745,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.123464,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.116388,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.78033,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116277,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.101203,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109637,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144067,Laticauda laticaudata,New Caledonia,-20.71444,164.96194
+AM,R.116313,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101222,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.2954,Laticauda colubrina,Australia,-34.45,147.533
+AM,R.109691,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.110063,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116527,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.138623,Laticauda saintgironsi,New Caledonia,-22.55,167.416
+AM,R.124902,Laticauda colubrina,,-9.25,152.933
+AM,R.116620,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.104017,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116373,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.110302,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109623,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.78034,Laticauda laticaudata,New Caledonia,-20.216,164.0
+AM,R.116392,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109752,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110060,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.104013,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.144073.002,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.116356,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116624,Laticauda frontalis,Vanuatu,-17.616,168.5
+AM,R.110271,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.109733,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.127265,Laticauda colubrina,Solomon Islands,-6.65,156.566
+AM,R.144053,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.116603,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144020.002,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.144024.003,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.116617,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116337,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109883,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.116340,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116565,Laticauda laticaudata,Fiji,-16.233,179.1
+AM,R.109636,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109652,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116387,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.109695,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109709,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101213,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.45821,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.90372,Laticauda laticaudata,Fiji,-19.0,178.416
+AM,R.109749,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110061,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.132755,Laticauda laticaudata,Fiji,-16.85,178.3
+AM,R.123466,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.116368,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.144050,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.110246,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.144021,Laticauda frontalis,Vanuatu,-17.51804,168.42249
+AM,R.109743,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.110270,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.116275,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116524,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.17951,Laticauda laticaudata,New Caledonia,-22.266,166.45
+AM,R.78088,Laticauda laticaudata,New Caledonia,-22.25,166.383
+AM,R.116336,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144026.003,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.144024.004,Laticauda frontalis,Vanuatu,-17.72054,168.17499
+AM,R.116548,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.110058,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.144055.003,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.109739,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.144075,Laticauda laticaudata,New Caledonia,-20.6311,164.87499
+AM,R.144054.004,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.109726,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109715,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101200,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109718,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.116609,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101199,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.12216,Laticauda colubrina,,-2.566,150.783
+AM,R.69514,Laticauda guineai,,-9.416,146.933
+AM,R.104016,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.144066,Laticauda laticaudata,New Caledonia,-20.71444,164.96194
+AM,R.109630,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109935,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.104019,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.109669,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.109888,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109682,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109737,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116378,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.116613,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116547,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.116374,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.101218,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.90368,Laticauda colubrina,Fiji,-19.0,178.416
+AM,R.116370,Laticauda colubrina,Vanuatu,-15.333,167.166
+AM,R.144073.003,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.124795,Laticauda colubrina,,-5.216,145.81388
+AM,R.144049.002,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.116307,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.104042,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.144052.001,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.109633,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101290,Laticauda colubrina,Solomon Islands,-11.75,160.4
+AM,R.111326,Laticauda saintgironsi,New Caledonia,-22.266,166.45
+AM,R.101180,Laticauda colubrina,Solomon Islands,-11.833,160.466
+AM,R.116327,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109892,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109624,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.144049.001,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.144027,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.116308,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.78087,Laticauda laticaudata,New Caledonia,-22.25,166.383
+AM,R.135210,Laticauda colubrina,Fiji,-16.85,179.966
+AM,R.138884,Laticauda frontalis,Vanuatu,-13.433,166.683
+AM,R.144049.003,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.123457,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.109693,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.109638,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109928,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.144042,Laticauda laticaudata,Vanuatu,-17.78388,168.28221
+AM,R.78089,Laticauda laticaudata,New Caledonia,-22.25,166.383
+AM,R.116348,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116379,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.17952,Laticauda saintgironsi,New Caledonia,-22.266,166.45
+AM,R.109701,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116371,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.101211,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.111327,Laticauda saintgironsi,New Caledonia,-22.266,166.45
+AM,R.69513,Laticauda guineai,,-9.416,146.933
+AM,R.109648,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109704,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.116364,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109685,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.109651,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109634,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116358,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.110276,Laticauda laticaudata,New Caledonia,-22.266,166.433
+AM,R.110071,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.101214,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116367,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.116330,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116529,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116294,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116339,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109731,Laticauda frontalis,Vanuatu,-17.516,168.4
+AM,R.110253,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.78045,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.101209,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116334,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144096,Laticauda saintgironsi,New Caledonia,-20.30361,164.09749
+AM,R.109929,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116347,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116397,Laticauda colubrina,Fiji,-16.233,179.1
+AM,R.104009,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.109629,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144073,Laticauda saintgironsi,New Caledonia,-20.6311,164.87499
+AM,R.116612,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.101195,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116276,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109680,Laticauda saintgironsi,New Caledonia,-22.55,166.8
+AM,R.144068,Laticauda saintgironsi,New Caledonia,-20.71444,164.96194
+AM,R.144052.003,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.109933,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.109658,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109927,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.144026.001,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.144055.002,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.110250,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109931,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116350,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.144065,Laticauda saintgironsi,New Caledonia,-21.116,165.48193
+AM,R.104012,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116345,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116545,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.144054.003,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.110068,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116280,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116542,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.144052,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.116537,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116372,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.109657,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109881,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109891,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.109666,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.69512,Laticauda guineai,,-9.416,146.933
+AM,R.146368,Laticauda saintgironsi,New Caledonia,-20.62916,164.87138
+AM,R.116541,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.116279,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.78047,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.78086,Laticauda saintgironsi,New Caledonia,-22.25,166.383
+AM,R.116273,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116320,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.116349,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.78091,Laticauda saintgironsi,New Caledonia,-20.283,164.433
+AM,R.110304,Laticauda colubrina,Fiji,-18.25,178.216
+AM,R.101201,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.109665,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116335,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.101215,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.101210,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.110278,Laticauda saintgironsi,New Caledonia,-22.266,166.433
+AM,R.144044,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.45794,Laticauda colubrina,,-2.566,150.783
+AM,R.144048,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.116292,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116329,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109674,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.101192,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116376,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.116543,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.101207,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.144026,Laticauda frontalis,Vanuatu,-17.78388,168.28221
+AM,R.30441,Laticauda colubrina,Fiji,-17.633,178.816
+AM,R.109707,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.109714,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116610,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.110285,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.109720,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.78046,Laticauda saintgironsi,New Caledonia,-20.216,164.0
+AM,R.116535,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116301,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.116286,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109646,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.144047,Laticauda laticaudata,Vanuatu,-17.78388,168.28221
+AM,R.109668,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.124903,Laticauda colubrina,,-9.25,152.933
+AM,R.144054.001,Laticauda colubrina,Vanuatu,-17.51804,168.42249
+AM,R.101224,Laticauda crockeri,Solomon Islands,-11.833,160.466
+AM,R.116299,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.110997,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.116359,Laticauda colubrina,Fiji,-17.85,177.2
+AM,R.109722,Laticauda colubrina,Vanuatu,-17.516,168.4
+AM,R.144049.004,Laticauda colubrina,Vanuatu,-17.78388,168.28221
+AM,R.116342,Laticauda laticaudata,New Caledonia,-22.333,166.566
+AM,R.110056,Laticauda colubrina,Fiji,-16.333,179.383
+AM,R.116382,Laticauda colubrina,Fiji,-17.983,178.7
+AM,R.116305,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.109694,Laticauda saintgironsi,New Caledonia,-22.516,166.6
+AM,R.116306,Laticauda saintgironsi,New Caledonia,-22.333,166.566
+AM,R.90370,Laticauda colubrina,Fiji,-19.0,178.416
+BYU,7328,Laticauda colubrina schneider,Solomon Islands,-9.074684,159.157172
+BYU,31223,Laticauda colubrina schneider,Solomon Islands,-9.116263,160.188367
+CAS,216438,Laticauda colubrina,Myanmar,17.72072,94.53469
+CAS,216441,Laticauda colubrina,Myanmar,17.72072,94.53469
+CAS,248815,Laticauda colubrina,Palau,7.6291833333,134.6458333333
+CAS,14963,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14964,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14965,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14966,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14967,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14968,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,14971,Laticauda colubrina,Singapore,1.3666666944,103.8
+CAS,27388,Laticauda colubrina,Philippine Ids.,10.1227777778,124.6408333333
+MCZ,R-140733,Laticauda colubrina,Papua New Guinea,-10.6141304,150.6621129
+MCZ,R-140735,Laticauda colubrina,Papua New Guinea,-9.4796195,147.1470856
+MCZ,R-152045,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-152047,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-152049,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-152050,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-152051,Laticauda colubrina,Papua New Guinea,-9.4266304,146.9335154
+MCZ,R-55960,Laticauda semifasciatus,Japan,26.319,127.835
+MCZ,R-58884,Laticauda colubrina,Singapore,1.161202,103.740721
+MCZ,R-59128,Laticauda colobrina,Papua New Guinea,-9.4438405,147.2167577
+MVZ,MVZ:Herp:274579,Laticauda colubrina,Indonesia,-5.6466712,132.6383123
+MVZ,MVZ:Herp:274580,Laticauda colubrina,Indonesia,-5.6466712,132.6383123
+MVZ,MVZ:Herp:40850,Laticauda colubrina,Vanuatu,-15.48333,167.23333
+NCSM,7457,Laticauda saintgironsi,,-22.5164,166.5831
+UCM,UCM:Herp:58882,Laticauda semifasciata,Japan,35.9999962,137.9999924
+USNM,121263,Laticauda colubrina,Papua New Guinea,-2.08333,147.0
+CM,92151,LATICAUDA LATICAUDATA,Japan,26.25,127.83
+USNM,33940,Laticauda laticaudata,Japan,24.4717,124.221
+USNM,33939,Laticauda laticaudata,Japan,24.4717,124.221
+USNM,33941,Laticauda laticaudata,Japan,24.4717,124.221
+USNM,7381,Laticauda laticaudata,Japan,26.2108,127.688
+CUMV,R-0011357,Laticauda colubrina,Papua New Guinea,-9.4423513,147.2178192
+University of Alberta Museums,R762,Laticauda colubrina,Philippines,10.2,124.15
+USNM,156996,Laticauda semifasciata,Japan,28.4639,129.678
+USNM,33937,Laticauda laticaudata,Japan,24.4717,124.221
+USNM,144184,Laticauda semifasciata,Japan,26.2108,127.688
+USNM,33938,Laticauda laticaudata,Japan,24.4717,124.221
+OMNH,36535.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+OMNH,36538.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+ROM,16215,Laticauda colubrina,Australia,-21.7322,144.4137
+SMNS,4203,Laticauda colubrina,Guatemala,15.75,-90.25
+USNM,56180,Laticauda colubrina,Australia,-25.3997,134.289
+OMNH,36533.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+OMNH,36534.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+OMNH,36536.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+OMNH,36537.0,Laticauda laticaudata,Taiwan,22.0442768,121.5472412
+SMNS,5759,Laticauda colubrina,,-6.13333,155.31667
+USNM,141689,Laticauda laticaudata,Japan,26.4747,127.982
+USNM,133978,Laticauda semifasciata,Japan,24.4717,124.221
+AM,R.74904,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.8886,Laticauda colubrina,,-3.133,142.35
+AM,R.125408,Laticauda crockeri,Solomon Islands,-11.65,160.15
+AM,R.145092,Laticauda frontalis,Vanuatu,-17.78499,168.28388
+AM,R.11524,Laticauda colubrina,Australia,-36.333,141.65
+AM,R.16022,Laticauda colubrina,,-5.2,145.783
+AM,R.74906,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.10941,Laticauda laticaudata,,-9.466,147.15
+AM,R.13727,Laticauda guineai,,-9.466,147.15
+AM,R.1128,Laticauda laticaudata,Fiji,-18.133,178.416
+AM,R.13851,Laticauda guineai,,-9.466,147.15
+AM,R.62740,Laticauda colubrina,,-10.95,151.05
+AM,R.74907,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.13849,Laticauda guineai,,-9.466,147.15
+MCZ,R-23791,Laticauda colubrina,Singapore,1.3666667,103.8
+MCZ,R-5553,Laticauda laticadata,Indonesia,0.0,120.0
+MCZ,R-7082,Laticauda colubrina,Indonesia,0.8,127.33333
+QM,J7568,Laticauda colubrina,Papua New Guinea,-2.0,147.0
+ROM,19146,Laticauda colubrina,Australia,-25.3997,134.2894
+WAM,R109734,Laticauda colubrina,Indonesia,-5.416667,133.066667
+WAM,R108189,Laticauda laticaudata,Indonesia,-10.283333,123.45
+WAM,R40116,Laticauda colubrina,Indonesia,-6.933333,134.183333
+WAM,R108190,Laticauda colubrina,Indonesia,-10.283333,123.45
+WAM,R105849,Laticauda colubrina,Indonesia,-10.583333,123.25
+WAM,R108191,Laticauda laticaudata,Indonesia,-10.283333,123.45
+WAM,R121899,Laticauda colubrina,Indonesia,-8.166667,114.5
+WAM,R108188,Laticauda laticaudata,Indonesia,-10.283333,123.45
+AM,R.1632,Laticauda laticaudata,New Caledonia,-22.266,166.45
+AM,R.7267,Laticauda colubrina,Solomon Islands,-10.0,160.0
+AM,R.24440,Laticauda colubrina,,-9.466,147.15
+AM,R.10548,Laticauda colubrina,,-2.016,147.333
+AM,R.130651,Laticauda crockeri,Solomon Islands,-11.65,160.15
+AM,R.13756,Laticauda colubrina,,-6.566,147.833
+AM,R.7613,Laticauda colubrina,,-9.0,146.833
+AM,R.95502,Laticauda colubrina,Tonga,-21.083,175.133
+AM,R.2329,Laticauda colubrina,,-8.483,151.066
+AM,R.1633,Laticauda laticaudata,New Caledonia,-22.266,166.45
+AM,R.10913,Laticauda guineai,,-9.466,147.15
+AM,R.13852,Laticauda guineai,,-9.466,147.15
+AM,R.2324,Laticauda colubrina,Fiji,-18.133,178.416
+AM,R.74905,Laticauda crockeri,Solomon Islands,-11.75,160.4
+AM,R.13791,Laticauda guineai,,-9.466,147.15
+CAS,8556,Laticauda colubrina,Singapore,1.3666666944,103.8
+MCZ,R-23785,Laticauda colubrina,Indonesia,-3.7167,128.2
+MCZ,R-23788,Laticauda colubrina,Australia,-21.72999954,144.41000366
+MCZ,R-23789,Laticauda colubrina,Singapore,1.3666667,103.8
+MCZ,R-23790,Laticauda colubrina,Singapore,1.3666667,103.8
+MCZ,R-23792,Laticauda colubrina,Singapore,1.3666667,103.8
+MCZ,R-23793,Laticauda laticaudata,Indonesia,-2.5,135.33333
+USNM,5546,Laticauda semifasciata,Japan,28.7992,128.988
+USNM,7515,Laticauda semifasciata,Japan,28.7992,128.988
+USNM,7336,Laticauda semifasciata,Japan,28.7992,128.988
+WAM,R108187,Laticauda laticaudata,Indonesia,-10.283333,123.45
+WAM,R108192,Laticauda laticaudata,Indonesia,-10.283333,123.45
+WAM,R105944,Laticauda colubrina,India,-18.0,78.0
+AM,R.147702,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110021,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179714,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.147713,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179712,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.110047,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116593,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109979,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147676,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116584,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109997,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179703,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.110263,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.116581,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179711,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.116571,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179727,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.110023,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147686,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147701,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147710,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179705,Laticauda frontalis,Vanuatu,-17.51763,168.42218
+AM,R.110004,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110016,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104036,Laticauda colubrina,Papua New Guinea,-9.533,147.283
+AM,R.116572,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147709,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110007,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109995,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110299,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.179717,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.179726,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.110024,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104035,Laticauda colubrina,Solomon Islands,-8.3,157.483
+AM,R.116589,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109982,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179701,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.179718,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.110264,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.109996,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147685,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147677,Laticauda semifasciata,Japan,24.416,123.766
+AM,R.109998,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147705,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179720,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.109993,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147672,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116585,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110006,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116560,Laticauda laticaudata,,-19.05,-169.916
+AM,R.116577,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109986,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179710,Laticauda colubrina,Vanuatu,-17.73216,168.20283
+AM,R.116558,Laticauda laticaudata,,-19.05,-169.916
+AM,R.109988,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116557,Laticauda laticaudata,,-19.05,-169.916
+AM,R.109981,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104039,Laticauda colubrina,Papua New Guinea,-9.533,147.283
+AM,R.104032,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.147678,Laticauda semifasciata,Japan,24.416,123.766
+AM,R.116595,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147687,Laticauda semifasciata,Japan,24.416,123.766
+AM,R.110022,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116586,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147703,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.104027,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116576,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147695,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110025,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110288,Laticauda laticaudata,,-19.066,-169.933
+AM,R.147693,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147669,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.104028,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116561,Laticauda laticaudata,,-19.05,-169.916
+AM,R.110050,Laticauda laticaudata,,-19.05,-169.916
+AM,R.147711,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147707,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.109985,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147670,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179707,Laticauda laticaudata,Vanuatu,-17.78505,168.28405
+AM,R.147691,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116588,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147688,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116591,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104038,Laticauda colubrina,Papua New Guinea,-9.533,147.283
+AM,R.116573,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116580,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110297,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.116592,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110014,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109989,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110314,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.147690,Laticauda laticaudata,Japan,24.433,124.07499
+BPBM,3936,Laticauda colubrina,Indonesia,-1.81982,136.757
+CAS,123969,Laticauda semifasciata,Japan,26.7518527778,128.3287361111
+CAS,133819,Laticauda colubrina,Palau,7.3566666667,134.5063888889
+CAS,133821,Laticauda colubrina,Palau,7.355,134.5091666667
+CAS,133831,Laticauda colubrina,Palau,7.0458333333,134.2722222222
+CAS,133832,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,133833,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,139494,Laticauda colubrina,Palau,7.3332111111,134.4538888889
+CAS,15165,Laticauda colubrina,Philippine Ids.,14.7714388889,120.2258388889
+CAS,15166,Laticauda colubrina,Philippine Ids.,14.8136138889,120.2928777778
+CAS,158304,Laticauda saintgironsi,France,-22.2882277778,167.0169666667
+CAS,158305,Laticauda saintgironsi,France,-22.2882277778,167.0169666667
+CAS,158306,Laticauda saintgironsi,France,-22.2870027778,167.018
+CAS,158308,Laticauda saintgironsi,France,-22.2870027778,167.018
+CAS,158309,Laticauda saintgironsi,France,-22.2870027778,167.018
+CAS,182194,Laticauda saintgironsi,France,-22.5819472222,167.4211055556
+CAS,214438,Laticauda saintgironsi,France,-22.6508333333,167.3930555556
+CAS,214442,Laticauda saintgironsi,France,-22.6691666667,167.4233333333
+CAS,220169,Laticauda colubrina,Myanmar,17.7606388889,94.4908333333
+CAS,220170,Laticauda colubrina,Myanmar,17.7606388889,94.4908333333
+CAS,22097,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22098,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22099,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,229532,Laticauda saintgironsi,France,-22.7058333333,167.4663888889
+CAS,229534,Laticauda saintgironsi,France,-22.7063888889,167.4669444444
+CAS,236329,Laticauda colubrina,Palau,7.0852277778,134.3317666667
+CAS,236420,Laticauda colubrina,Palau,7.0852277778,134.3317666667
+CAS,236676,Laticauda colubrina,Palau,7.2563666667,134.4431666667
+CAS,237400,Laticauda colubrina,Palau,7.3409666667,134.4587166667
+CAS,237708,Laticauda colubrina,Palau,7.1296333333,134.2378333333
+CAS,248480,Laticauda colubrina,Palau,7.3401333333,134.4593
+CAS,250052,Laticauda colubrina,Palau,7.3402388889,134.4554972222
+CAS,251993,Laticauda colubrina,Palau,7.1825166667,134.25075
+CAS,255448,Laticauda colubrina,Palau,7.17275,134.2570166667
+CAS,49994,Laticauda colubrina,Tonga,-21.0842416667,-175.1361611111
+CAS,12437,Laticauda colubrina,Philippine Ids.,9.2965388889,123.2872972222
+CAS,12980,Laticauda colubrina,Philippine Ids.,11.1528444444,120.9649222222
+CAS,23354,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23616,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23620,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23621,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23624,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,8707,Laticauda colubrina,Philippine Ids.,9.2965388889,123.2872972222
+CAS,8774,Laticauda colubrina,Philippine Ids.,11.9990666667,120.2055166667
+CAS,8775,Laticauda colubrina,Philippine Ids.,5.9797638889,121.1940944444
+CAS,8776,Laticauda colubrina,Philippine Ids.,5.9797638889,121.1940944444
+KU,341149,Laticauda colubrina,Solomon Islands,-8.06015,156.96698
+KU,350705,Laticauda colubrina,Solomon Islands,-8.0722,159.53532
+KU,350938,Laticauda colubrina,Solomon Islands,-11.744128,160.433367
+KU,350937,Laticauda colubrina,Solomon Islands,-11.744739,160.433422
+KU,350940,Laticauda crockeri,Solomon Islands,-11.745116,160.433651
+KU,94559,Laticauda laticaudata,Japan,26.25569,127.83903
+KU,350939,Laticauda crockeri,Solomon Islands,-11.744942,160.433891
+KU,350709,Laticauda colubrina,Solomon Islands,-8.0722,159.53532
+MCZ,R-119728,Laticauda colubrina,Solomon Islands,-9.8,160.85
+MCZ,R-120279,Laticauda colubrina,Solomon Islands,-9.8,160.85
+QM,J32950,Laticauda guineai,Papua New Guinea,-9.483333,147.15
+QVMAG,QVM:1958:3:0015,Laticauda platurus,Australia,-41.0333333,148.2333333
+RBINS,378205,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,-2.0,146.5666667
+RBINS,489913,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,-5.4666667,145.8166667
+RBINS,555539,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,-2.2,147.2
+RBINS,686893,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,-5.4666667,145.8166667
+ROM,17487,Laticauda semifasciata,Philippines,9.3120448,123.3105468
+ROM,17488,Laticauda colubrina,Philippines,9.1915814,123.5906982
+ROM,17489,Laticauda colubrina,Philippines,9.1915814,123.5906982
+SAMA,R48012,Laticauda colubrina,,7.616,134.64027
+SIO,61-66,Laticauda colubrina,,-8.8,115.105
+USNM,137309,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,209743,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209744,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209736,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,167242,Laticauda colubrina,Indonesia,-8.8,115.105
+USNM,204797,Laticauda colubrina,Philippines,16.28,120.03
+USNM,577712,Laticauda colubrina,Republic of Palau,7.3381,134.457
+USNM,209741,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,137312,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,292220,Laticauda colubrina,Indonesia,0.88,127.68
+USNM,577703,Laticauda colubrina,Republic of Palau,7.62931,134.646
+USNM,204796,Laticauda colubrina,Philippines,16.22,120.05
+USNM,137308,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,137311,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,284386,Laticauda colubrina,Philippines,20.4333,121.965
+ZMUC,ZMUC-R6605,Laticauda colubrina,Solomon Islands,-11.65,160.2333333333
+ZMUC,ZMUC-R6604,Laticauda colubrina,Solomon Islands,-11.65,160.2333333333
+AM,R.110048,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110019,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110002,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104034,Laticauda colubrina,Solomon Islands,-8.3,157.483
+AM,R.147694,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110298,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.179723,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.147689,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.20591,Laticauda colubrina,,-5.95,155.383
+AM,R.116599,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104031,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.147681,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.109983,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179704,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.116564,Laticauda laticaudata,,-19.05,-169.916
+AM,R.147675,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116578,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179706,Laticauda frontalis,Vanuatu,-17.78505,168.28405
+AM,R.147708,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147697,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179708,Laticauda laticaudata,Vanuatu,-17.78505,168.28405
+AM,R.110003,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147706,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147682,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179713,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.116587,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110020,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109980,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147673,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.162999,Laticauda saintgironsi,New Caledonia,-22.32932,166.56902
+AM,R.110296,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.110001,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179716,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.147700,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.104030,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116559,Laticauda laticaudata,,-19.05,-169.916
+AM,R.116562,Laticauda laticaudata,,-19.05,-169.916
+AM,R.147674,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.109992,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116579,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109994,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109984,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109999,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110051,Laticauda laticaudata,,-19.05,-169.916
+AM,R.110005,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179722,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.109991,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147684,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147671,Laticauda colubrina,Japan,24.433,124.07499
+AM,R.110012,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147698,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.147692,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110018,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110009,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147699,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110013,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110010,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116594,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116563,Laticauda laticaudata,,-19.05,-169.916
+AM,R.116596,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109987,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147714,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179709,Laticauda colubrina,Vanuatu,-17.73216,168.20283
+AM,R.104033,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.116574,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179725,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.110011,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.116600,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110017,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147679,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179719,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.104029,Laticauda colubrina,Solomon Islands,-8.266,157.5
+AM,R.147683,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116590,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147696,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.179702,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.110008,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.147680,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116597,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179715,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.179721,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.147668,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116575,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.109990,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.104037,Laticauda colubrina,Papua New Guinea,-9.533,147.283
+AM,R.147712,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.110015,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110000,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110313,Laticauda schistorhynchus,,-19.066,-169.933
+AM,R.179700,Laticauda colubrina,Vanuatu,-17.78505,168.28405
+AM,R.116582,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.110049,Laticauda laticaudata,,-19.05,-169.916
+AM,R.147704,Laticauda laticaudata,Japan,24.433,124.07499
+AM,R.116583,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.179724,Laticauda laticaudata,New Caledonia,-22.32932,166.56902
+AM,R.116598,Laticauda schistorhynchus,,-19.05,-169.916
+BPBM,17879,Laticauda colubrina,Papua New Guinea,-9.2183,152.944
+CAS,113662,Laticauda colubrina,Solomon Ids.,-7.1101305556,155.8504305556
+CAS,121130,Laticauda colubrina,Palau,7.0325,134.2722222222
+CAS,133818,Laticauda colubrina,Palau,7.3566666667,134.5063888889
+CAS,133820,Laticauda colubrina,Palau,7.3472222222,134.4952777778
+CAS,133822,Laticauda colubrina,Palau,7.3358333333,134.4719444444
+CAS,133834,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,14998,Laticauda laticaudata,Japan,26.2183555556,127.6567111111
+CAS,158307,Laticauda saintgironsi,France,-22.2870027778,167.018
+CAS,158310,Laticauda saintgironsi,France,-22.2957472222,167.0140833333
+CAS,159568,Laticauda laticaudata,France,-22.2917638889,167.0149527778
+CAS,172354,Laticauda colubrina,Vanuatu,-17.4936916667,168.4897972222
+CAS,214436,Laticauda saintgironsi,France,-22.6508333333,167.3930555556
+CAS,214437,Laticauda saintgironsi,France,-22.6508333333,167.3930555556
+CAS,214439,Laticauda saintgironsi,France,-22.6508333333,167.3930555556
+CAS,214443,Laticauda laticaudata,France,-22.6691666667,167.4233333333
+CAS,214444,Laticauda laticaudata,France,-22.6691666667,167.4233333333
+CAS,214445,Laticauda laticaudata,France,-22.6691666667,167.4233333333
+CAS,220171,Laticauda colubrina,Myanmar,17.7606388889,94.4908333333
+CAS,220172,Laticauda colubrina,Myanmar,17.7606388889,94.4908333333
+CAS,220173,Laticauda colubrina,Myanmar,17.7606388889,94.4908333333
+CAS,22093,Laticauda semifasciata,Japan,26.2183555556,127.6567111111
+CAS,22094,Laticauda semifasciata,Japan,24.8110833333,125.269675
+CAS,22095,Laticauda semifasciata,Japan,24.8110833333,125.269675
+CAS,22096,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22100,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22101,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22102,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22103,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22104,Laticauda semifasciata,Japan,24.3454861111,124.1355
+CAS,22105,Laticauda laticaudata,Japan,24.8110833333,125.269675
+CAS,229533,Laticauda saintgironsi,France,-22.7058333333,167.4663888889
+CAS,236319,Laticauda colubrina,Palau,7.0729,134.3227111111
+CAS,236330,Laticauda colubrina,Palau,7.0729,134.3227111111
+CAS,236331,Laticauda colubrina,Palau,7.0729,134.3227111111
+CAS,236419,Laticauda colubrina,Palau,7.0852277778,134.3317666667
+CAS,236440,Laticauda colubrina,Palau,7.3367166667,134.4649
+CAS,237701,Laticauda colubrina,Palau,7.3367166667,134.4649
+CAS,251994,Laticauda colubrina,Palau,7.1755,134.27525
+CAS,251995,Laticauda colubrina,Palau,7.1825166667,134.25075
+CAS,251996,Laticauda colubrina,Palau,7.1910666667,134.24105
+CAS,71394,Laticauda schistorhyncha,New Zealand,-19.0547527778,-169.9233888889
+CAS,72001,Laticauda crockeri,Solomon Ids.,-11.7782305556,160.4947027778
+CAS,72036,Laticauda colubrina,Solomon Ids.,-9.0554555556,161.0473
+CAS,72037,Laticauda colubrina,Solomon Ids.,-9.0554555556,161.0473
+CAS,72300,Laticauda colubrina,Solomon Ids.,-10.2785527778,166.3121833333
+CAS,16307,Laticauda semifasciata,Japan,26.2637722222,127.6968222222
+CAS,23355,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23617,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23618,Laticauda colubrina,Palau,7.3463888889,134.5861111111
+CAS,23622,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,23623,Laticauda colubrina,Palau,7.35,134.5958333333
+CAS,8772,Laticauda colubrina,Philippine Ids.,10.3780805556,123.8631111111
+CAS,8773,Laticauda colubrina,Philippine Ids.,10.3780805556,123.8631111111
+CAS,8777,Laticauda colubrina,Philippine Ids.,5.9797638889,121.1940944444
+KU,350943,Laticauda crockeri,Solomon Islands,-11.744459,160.433523
+KU,350941,Laticauda crockeri,Solomon Islands,-11.744253,160.433569
+KU,350707,Laticauda colubrina,Solomon Islands,-8.0722,159.53532
+KU,350942,Laticauda crockeri,Solomon Islands,-11.744459,160.433523
+KU,350708,Laticauda colubrina,Solomon Islands,-8.0722,159.53532
+KU,350706,Laticauda colubrina,Solomon Islands,-8.0722,159.53532
+MCZ,R-192928,Laticauda colubrina,East Timor,-8.4101972222,127.2990055556
+MCZ,R-66511,Laticauda colubrina,Solomon Islands,-7.0333,155.65
+MCZ,R-67741,Laticauda colubrina,Solomon Islands,-7.0333,155.65
+MCZ,R-67742,Laticauda colubrina,Solomon Islands,-7.0333,155.65
+RBINS,686892,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,-5.4666667,145.8166667
+SAMA,R56928,Laticauda colubrina,,-7.34416,157.21388
+UBCBBM,H000950,Laticauda platurus,United States,19.292795,166.639278
+USNM,209738,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,577709,Laticauda colubrina,Republic of Palau,7.3467,134.565
+USNM,533630,Laticauda colubrina,Solomon Islands,-10.25,166.3
+USNM,577708,Laticauda colubrina,Republic of Palau,7.6142,134.643
+USNM,531997,Laticauda colubrina,Republic of Palau,7.6142,134.643
+USNM,137314,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,137310,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,167243,Laticauda semifasciata,Indonesia,-8.8,115.105
+USNM,230191,Laticauda colubrina,Republic of Fiji,-18.12,179.32
+USNM,137307,Laticauda colubrina,Republic of Palau,7.3464,134.586
+USNM,31707,Laticauda colubrina,Indonesia,-0.2208,98.5042
+USNM,209742,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,35769,Laticauda colubrina,Indonesia,-5.4,102.25
+USNM,209737,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209745,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209739,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209740,Laticauda laticaudata,Philippines,11.45,124.02
+USNM,209746,Laticauda laticaudata,Philippines,11.45,124.02
+CAS,148647,Laticauda laticaudata laticaudata,Philippine Ids.,11.4471055556,124.0201444444
+CAS,61804,Laticauda colubrina,Philippine Ids.,14.5768027778,120.7617361111
+CAS,61805,Laticauda colubrina,Philippine Ids.,14.5768027778,120.7617361111
+CAS,12438,Laticauda laticaudata,France,-22.2889361111,166.4433694444
+CAS,12440,Laticauda colubrina,Philippine Ids.,6.9513388889,121.9702111111
+CAS,12441,Laticauda laticaudata,France,-22.2889361111,166.4433694444
+CAS,12442,Laticauda laticaudata,France,-22.2889361111,166.4433694444
+CAS,7251,Laticauda cf. colubrina,Philippine Ids.,4.7220611111,119.4078027778
+CAS,157101,Laticauda colubrina,Tonga,-21.1736111111,-175.3111111111
+CAS,61806,Laticauda colubrina,Philippine Ids.,14.5768027778,120.7617361111
+CAS,12439,Laticauda colubrina,Philippine Ids.,6.9513388889,121.9702111111
+USNM,292221,Laticauda colubrina,Indonesia,0.88,127.68
+CAS,15812,Laticauda colubrina,Philippine Ids.,4.7063222222,119.2721916667
+CAS,86148,Laticauda colubrina,Palau,7.3534972222,134.5819111111
+CAS,86151,Laticauda colubrina,Palau,7.3534972222,134.5819111111
+CAS,12978,Laticauda colubrina,Philippine Ids.,5.9797638889,121.1940944444
+CAS,12979,Laticauda colubrina,Philippine Ids.,5.9797638889,121.1940944444
+CAS,5160,Laticauda semifasciata,Japan,26.2183555556,127.6567111111
+CAS,5161,Laticauda semifasciata,Japan,26.2183555556,127.6567111111
+CLO,457309,Laticauda,Indonesia,-0.512429,130.890547
+CLO,457319,Laticauda,Indonesia,-0.512429,130.890547
+CLO,457310,Laticauda,Indonesia,-0.512429,130.890547
+SBMNH,1591,Laticauda colubrina,Papua New Guinea,-10.5833333,150.6833333
+CAS,86149,Laticauda colubrina,Palau,7.3534972222,134.5819111111
+CAS,86150,Laticauda colubrina,Palau,7.3534972222,134.5819111111
+CAS,86152,Laticauda colubrina,Palau,7.3534972222,134.5819111111
+CLO,457311,Laticauda,Indonesia,-0.512429,130.890547
+CLO,457621,Laticauda,Indonesia,-0.512429,130.890547
+AM,R.109976,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.1578,Laticauda laticaudata,Vanuatu,-15.0,168.0
+AM,R.101172,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.107154,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107159,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.68548,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.107142,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107161,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.68549,Laticauda colubrina,Solomon Islands,-11.75,160.5
+AM,R.101305,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.87461,Laticauda colubrina,Solomon Islands,-8.4,160.6
+AM,R.101242,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.101178,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.107146,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.68545,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.68550,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.107144,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107148,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107149,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101177,Laticauda colubrina,Japan,24.75,125.416
+AM,R.109977,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.101264,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.101176,Laticauda colubrina,Japan,24.75,125.416
+AM,R.101171,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.68546,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.21256,Laticauda schistorhynchus,,-19.0,-170.0
+AM,R.107155,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107147,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.68547,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.68552,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.68553,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.107151,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101308,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.101240,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.107145,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101306,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.109978,Laticauda schistorhynchus,,-19.05,-169.916
+AM,R.101175,Laticauda laticaudata,Japan,24.75,125.416
+AM,R.101173,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.107152,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.68544,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.87462,Laticauda colubrina,Solomon Islands,-8.4,160.6
+AM,R.107150,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107143,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101239,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.101165,Laticauda laticaudata,Japan,24.75,125.416
+AM,R.101185,Laticauda laticaudata,Japan,28.333,129.333
+AM,R.101179,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.107157,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107158,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.1194,Laticauda laticaudata,Solomon Islands,-10.0,160.0
+AM,R.101265,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.101174,Laticauda semifasciata,Japan,24.75,125.416
+AM,R.107153,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101241,Laticauda semifasciata,Japan,28.333,129.333
+AM,R.68551,Laticauda crockeri,Solomon Islands,-11.75,160.5
+AM,R.107160,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.107156,Laticauda laticaudata,Japan,26.166,127.916
+AM,R.101243,Laticauda laticaudata,Japan,28.333,129.333
+QM,J801,Laticauda colubrina,Indonesia,2.383333,128.116667
+SAMA,R2296,Laticauda colubrina,Papua New Guinea,-6.0,155.0
+ANSP,,Laticauda colubrina,New Guinea-Indonesia,,
+BPBM,1291,Laticauda schistorhynchus,Niue,,
+BPBM,1292,Laticauda schistorhynchus,Niue,,
+BPBM,7476,Laticauda colubrina,Singapore,,
+CAS,248955,Laticauda colubrina,Palau,,
+CM,53590,LATICAUDA COLUBRINA,China,,
+CM,83301,LATICAUDA COLUBRINA,New Caledonia,,
+CUMV,R-0011180,Laticauda colubrina,Fiji,,
+CUMV,R-0011176,Laticauda colubrina,Fiji,,
+CUMV,R-0011178,Laticauda colubrina,Fiji,,
+CUMV,R-0011177,Laticauda colubrina,Fiji,,
+FMNH,236329,Laticauda colubrina,Malaysia,,
+FMNH,202812,Laticauda laticaudata,Philippine Is,,
+FMNH,235421,Laticauda colubrina,Malaysia,,
+FMNH,202814,Laticauda laticaudata,Philippine Is,,
+FMNH,13820,Laticauda colubrina,Solomon Is,,
+FMNH,234158,Laticauda colubrina,Malaysia,,
+FMNH,235406,Laticauda colubrina,Malaysia,,
+FMNH,236285,Laticauda colubrina,Malaysia,,
+FMNH,234148,Laticauda colubrina,Malaysia,,
+FMNH,236272,Laticauda colubrina,Malaysia,,
+FMNH,13814,Laticauda colubrina,Solomon Is,,
+FMNH,236362,Laticauda colubrina,Malaysia,,
+FMNH,236360,Laticauda colubrina,Malaysia,,
+FMNH,202807,Laticauda colubrina,Philippine Is,,
+FMNH,13817,Laticauda colubrina,Solomon Is,,
+FMNH,235400,Laticauda colubrina,Malaysia,,
+FMNH,236312,Laticauda colubrina,Malaysia,,
+FMNH,235394,Laticauda colubrina,Malaysia,,
+FMNH,178485,Laticauda colubrina,Singapore I,,
+FMNH,13819,Laticauda colubrina,Solomon Is,,
+FMNH,236269,Laticauda colubrina,Malaysia,,
+FMNH,127217,Laticauda colubrina,Formosa,,
+FMNH,236253,Laticauda colubrina,Malaysia,,
+FMNH,236365,Laticauda colubrina,Malaysia,,
+FMNH,236314,Laticauda colubrina,Malaysia,,
+FMNH,234167,Laticauda colubrina,Malaysia,,
+FMNH,235416,Laticauda colubrina,Malaysia,,
+FMNH,236282,Laticauda colubrina,Malaysia,,
+FMNH,236307,Laticauda colubrina,Malaysia,,
+FMNH,236331,Laticauda colubrina,Malaysia,,
+FMNH,198595,Laticauda colubrina,West Malaysia,,
+FMNH,236338,Laticauda colubrina,Malaysia,,
+FMNH,236332,Laticauda colubrina,Malaysia,,
+FMNH,236246,Laticauda colubrina,Malaysia,,
+FMNH,236357,Laticauda colubrina,Malaysia,,
+FMNH,236241,Laticauda colubrina,Malaysia,,
+FMNH,236367,Laticauda colubrina,Malaysia,,
+FMNH,140051,Laticauda colubrina,Philippine Is,,
+FMNH,236359,Laticauda colubrina,Malaysia,,
+FMNH,236335,Laticauda colubrina,Malaysia,,
+FMNH,236333,Laticauda colubrina,Malaysia,,
+FMNH,236363,Laticauda colubrina,Malaysia,,
+FMNH,236266,Laticauda colubrina,Malaysia,,
+FMNH,236372,Laticauda colubrina,Malaysia,,
+FMNH,235389,Laticauda colubrina,Malaysia,,
+FMNH,234160,Laticauda colubrina,Malaysia,,
+FMNH,236242,Laticauda colubrina,Malaysia,,
+FMNH,97962,Laticauda colubrina,New Caledonia,,
+FMNH,235405,Laticauda colubrina,Malaysia,,
+FMNH,234156,Laticauda colubrina,Malaysia,,
+FMNH,236369,Laticauda colubrina,Malaysia,,
+FMNH,235399,Laticauda colubrina,Malaysia,,
+FMNH,236273,Laticauda colubrina,Malaysia,,
+FMNH,235401,Laticauda colubrina,Malaysia,,
+FMNH,236368,Laticauda colubrina,Malaysia,,
+FMNH,236259,Laticauda colubrina,Malaysia,,
+FMNH,202822,Laticauda semifasciata,Philippine Is,,
+FMNH,97964,Laticauda colubrina,New Caledonia,,
+FMNH,236252,Laticauda colubrina,Malaysia,,
+FMNH,236327,Laticauda colubrina,Malaysia,,
+FMNH,13818,Laticauda colubrina,Solomon Is,,
+FMNH,236370,Laticauda colubrina,Malaysia,,
+FMNH,202800,Laticauda colubrina,Philippine Is,,
+FMNH,234159,Laticauda colubrina,Malaysia,,
+FMNH,236297,Laticauda colubrina,Malaysia,,
+FMNH,236240,Laticauda colubrina,Malaysia,,
+FMNH,236351,Laticauda colubrina,Malaysia,,
+FMNH,236274,Laticauda colubrina,Malaysia,,
+FMNH,236268,Laticauda colubrina,Malaysia,,
+FMNH,236352,Laticauda colubrina,Malaysia,,
+FMNH,236295,Laticauda colubrina,Malaysia,,
+FMNH,236325,Laticauda colubrina,Malaysia,,
+FMNH,236288,Laticauda colubrina,Malaysia,,
+FMNH,120645,Laticauda semifasciata,Formosa,,
+FMNH,235408,Laticauda colubrina,Malaysia,,
+FMNH,236286,Laticauda colubrina,Malaysia,,
+FMNH,171536,Laticauda laticaudata,"Tonga, Friendly Is",,
+FMNH,236361,Laticauda colubrina,Malaysia,,
+FMNH,234165,Laticauda colubrina,Malaysia,,
+FMNH,236349,Laticauda colubrina,Malaysia,,
+FMNH,235404,Laticauda colubrina,Malaysia,,
+FMNH,13813,Laticauda colubrina,Solomon Is,,
+FMNH,202799,Laticauda colubrina,Philippine Is,,
+FMNH,236315,Laticauda colubrina,Malaysia,,
+FMNH,234166,Laticauda colubrina,Malaysia,,
+FMNH,236301,Laticauda colubrina,Malaysia,,
+FMNH,235423,Laticauda colubrina,Malaysia,,
+FMNH,234152,Laticauda colubrina,Malaysia,,
+FMNH,234146,Laticauda colubrina,Malaysia,,
+FMNH,236249,Laticauda colubrina,Malaysia,,
+FMNH,202818,Laticauda semifasciata,Philippine Is,,
+FMNH,13816,Laticauda colubrina,Solomon Is,,
+FMNH,234163,Laticauda colubrina,Malaysia,,
+FMNH,236294,Laticauda colubrina,Malaysia,,
+FMNH,236323,Laticauda colubrina,Malaysia,,
+FMNH,236267,Laticauda colubrina,Malaysia,,
+FMNH,236348,Laticauda colubrina,Malaysia,,
+FMNH,236287,Laticauda colubrina,Malaysia,,
+FMNH,234157,Laticauda colubrina,Malaysia,,
+FMNH,234162,Laticauda colubrina,Malaysia,,
+FMNH,236247,Laticauda colubrina,Malaysia,,
+FMNH,236306,Laticauda colubrina,Malaysia,,
+FMNH,235390,Laticauda colubrina,Malaysia,,
+FMNH,236319,Laticauda colubrina,Malaysia,,
+FMNH,140052,Laticauda colubrina,Philippine Is,,
+FMNH,236298,Laticauda colubrina,Malaysia,,
+FMNH,234153,Laticauda colubrina,Malaysia,,
+FMNH,154782,Laticauda laticaudata,Thailand,,
+FMNH,236309,Laticauda colubrina,Malaysia,,
+FMNH,202797,Laticauda colubrina,Philippine Is,,
+FMNH,236234,Laticauda colubrina,Malaysia,,
+FMNH,236264,Laticauda colubrina,Malaysia,,
+FMNH,236243,Laticauda colubrina,Malaysia,,
+FMNH,236238,Laticauda colubrina,Malaysia,,
+FMNH,13626,Laticauda colubrina,Fiji Is,,
+FMNH,236276,Laticauda colubrina,Malaysia,,
+FMNH,13622,Laticauda colubrina,Fiji Is,,
+FMNH,235413,Laticauda colubrina,Malaysia,,
+FMNH,236303,Laticauda colubrina,Malaysia,,
+FMNH,234161,Laticauda colubrina,Malaysia,,
+FMNH,202181,Laticauda colubrina,Malaysia,,
+FMNH,236250,Laticauda colubrina,Malaysia,,
+FMNH,236336,Laticauda colubrina,Malaysia,,
+FMNH,236324,Laticauda colubrina,Malaysia,,
+FMNH,236280,Laticauda colubrina,Malaysia,,
+FMNH,236265,Laticauda colubrina,Malaysia,,
+FMNH,236256,Laticauda colubrina,Malaysia,,
+FMNH,202815,Laticauda semifasciata,Philippine Is,,
+FMNH,13815,Laticauda colubrina,Solomon Is,,
+FMNH,236316,Laticauda colubrina,Malaysia,,
+FMNH,235407,Laticauda colubrina,Malaysia,,
+FMNH,202805,Laticauda colubrina,Philippine Is,,
+LACM,135480,Laticauda colubrina,Philippines,,
+LACM,63606,Laticauda colubrina,Thailand,,
+LACM,135479,Laticauda colubrina,Philippines,,
+MCZ,R-114641,Laticauda colubrina,Republic of Palau,,
+MCZ,R-118620,Laticauda colubrina,,,
+MCZ,R-118621,Laticauda colubrina,,,
+MCZ,R-146949,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-25807,Laticauda colubrina,Philippines,,
+MCZ,R-4177,Laticauda colubrina,,,
+MCZ,R-6790,Laticauda colubrina,New Caledonia,,
+MCZ,R-7085,Laticauda laticaudata,Philippines,,
+MCZ,R-921,Laticauda laticaudata,Australia,,
+MCZ,R-959,Laticauda laticauda,,,
+NCSM,69272,Laticauda colubrina,Indonesia,,
+NCSM,69274,Laticauda colubrina,Indonesia,,
+NHMUK,1998.340,"Laticauda colubrina (Schneider, 1799)",Indonesia,,
+NHMUK,1987.2491-2500,Laticauda colubrina,New Caledonia,,
+QM,J43338,Laticauda colubrina,Solomon Islands,,
+QM,J43339,Laticauda colubrina,Philippines,,
+RBINS,292331,"Laticauda colubrina (Schneider, 1801)",Papua New Guinea,,
+RBINS,299028,"Laticauda colubrina (Schneider, 1801)",Indonesia,,
+RBINS,359625,"Laticauda colubrina (Schneider, 1801)",Morocco,,
+RBINS,380931,"Laticauda laticaudata (Linnaeus, 1758)",New Caledonia,,
+RBINS,416519,"Laticauda colubrina (Schneider, 1801)",Papua New Guinea,,
+RBINS,460469,"Laticauda colubrina (Schneider, 1801)",New Caledonia,,
+ROM,12012,Laticauda colubrina,Fiji,,
+ROM,12497,Laticauda colubrina,Fiji,,
+ROM,13502,Laticauda laticaudata,Philippines,,
+SDNHM,38971,Laticauda colubrina,Palau,,
+SDNHM,39192,Laticauda colubrina,Palau,,
+SDNHM,39193,Laticauda colubrina,Palau,,
+SDNHM,39196,Laticauda colubrina,Palau,,
+SDNHM,52721,Laticauda colubrina,Federated States of Micronesia,,
+SDNHM,67134,Laticauda colubrina,Philippines,,
+SDNHM,67135,Laticauda colubrina,Philippines,,
+SDNHM,67137,Laticauda colubrina,Philippines,,
+SDNHM,67139,Laticauda colubrina,Philippines,,
+SDNHM,67140,Laticauda colubrina,Philippines,,
+SDNHM,67143,Laticauda colubrina,Philippines,,
+SDNHM,67144,Laticauda colubrina,Philippines,,
+SDNHM,67145,Laticauda colubrina,Philippines,,
+SDNHM,67149,Laticauda colubrina,Philippines,,
+SDNHM,67151,Laticauda colubrina,Philippines,,
+SDNHM,67152,Laticauda colubrina,Philippines,,
+SDNHM,67153,Laticauda colubrina,Philippines,,
+SDNHM,67156,Laticauda colubrina,Philippines,,
+SDNHM,67161,Laticauda colubrina,Philippines,,
+SDNHM,67162,Laticauda colubrina,Philippines,,
+SDNHM,67163,Laticauda colubrina,Philippines,,
+SDNHM,67164,Laticauda colubrina,Philippines,,
+SDNHM,67166,Laticauda colubrina,Philippines,,
+SDNHM,67167,Laticauda colubrina,Philippines,,
+SDNHM,67168,Laticauda colubrina,Philippines,,
+SDNHM,67169,Laticauda colubrina,Philippines,,
+SDNHM,67170,Laticauda colubrina,Philippines,,
+SDNHM,67171,Laticauda colubrina,Philippines,,
+SDNHM,67174,Laticauda colubrina,Philippines,,
+SDNHM,67175,Laticauda colubrina,Philippines,,
+SDNHM,67177,Laticauda colubrina,Philippines,,
+SDNHM,67180,Laticauda colubrina,Philippines,,
+SDNHM,67181,Laticauda colubrina,Philippines,,
+SDNHM,67189,Laticauda colubrina,Philippines,,
+SDNHM,67190,Laticauda colubrina,Philippines,,
+SDNHM,68077,Laticauda colubrina,,,
+UCM,UCM:Herp:51489,Laticauda colubrina,Taiwan,,
+UCM,UCM:Herp:58884,Laticauda semifasciata,Japan,,
+UCM,UCM:Herp:58885,Laticauda semifasciata,Japan,,
+UCM,UCM:Herp:58887,Laticauda semifasciata,Japan,,
+UCM,UCM:Herp:58888,Laticauda semifasciata,Philippines,,
+UCM,UCM:Herp:58890,Laticauda semifasciata ?,,,
+UCM,UCM:Herp:58891,Laticauda semifasciata ?,,,
+UF,56252,Laticauda semifasciata,Japan,,
+UF,120633,Laticauda semifasciata,Japan,,
+UF,120628,Laticauda colubrina,Fiji,,
+UF,120634,Laticauda semifasciata,Japan,,
+UF,120555,Laticauda sp.,,,
+UF,56288,Laticauda semifasciata,Japan,,
+UF,56262,Laticauda semifasciata,Japan,,
+UF,56256,Laticauda semifasciata,Japan,,
+UF,56274,Laticauda semifasciata,Japan,,
+UF,56299,Laticauda laticauda,Japan,,
+UF,120631,Laticauda semifasciata,Japan,,
+UF,120630,Laticauda semifasciata,Japan,,
+UF,56254,Laticauda semifasciata,Japan,,
+UF,56302,Laticauda laticauda,Japan,,
+UF,56290,Laticauda semifasciata,Japan,,
+UF,56260,Laticauda semifasciata,Japan,,
+UF,56297,Laticauda laticauda,Japan,,
+UF,56264,Laticauda semifasciata,Japan,,
+UF,120553,Laticauda sp.,,,
+UF,120552,Laticauda sp.,,,
+UF,120554,Laticauda sp.,,,
+UF,56296,Laticauda laticauda,Japan,,
+UF,56289,Laticauda semifasciata,Japan,,
+UF,16897,Laticauda colubrina,France Pacific Islands,,
+UF,56298,Laticauda laticauda,Japan,,
+UF,56265,Laticauda semifasciata,Japan,,
+UF,120635,Laticauda semifasciata,Japan,,
+UMMZ,224405,Laticauda colubrina,Palau,,
+UMMZ,224406,Laticauda colubrina,Palau,,
+UMMZ,224408,Laticauda colubrina,Palau,,
+UMMZ,224410,Laticauda colubrina,Palau,,
+UMMZ,224412,Laticauda colubrina,Palau,,
+UMMZ,93852,Laticauda colubrina,New Caledonia,,
+UMMZ,93854,Laticauda colubrina,New Caledonia,,
+UMMZ,93856,Laticauda colubrina,New Caledonia,,
+UMMZ,93858,Laticauda laticaudata,New Caledonia,,
+UMNH,UMNH:Herp:11012,Laticauda colubrina,Tonga,,
+USNM,577714,Laticauda colubrina,Republic of Palau,,
+USNM,146329,Laticauda colubrina,,,
+USNM,209728,Laticauda colubrina,Philippines,,
+USNM,513411,Laticauda colubrina,Republic of Palau,,
+USNM,53024,Laticauda colubrina,Indonesia,,
+USNM,531992,Laticauda colubrina,Republic of Palau,,
+USNM,507820,Laticauda colubrina,Philippines,,
+USNM,83094,Laticauda colubrina,Kingdom of Tonga,,
+USNM,577702,Laticauda colubrina,Republic of Palau,,
+USNM,39937,Laticauda colubrina,Philippines,,
+USNM,507503,Laticauda colubrina,Republic of Palau,,
+USNM,38592,Laticauda colubrina,Philippines,,
+USNM,83090,Laticauda colubrina,Kingdom of Tonga,,
+USNM,146318,Laticauda colubrina,,,
+USNM,527996,Laticauda colubrina,Republic of Palau,,
+USNM,577705,Laticauda colubrina,Republic of Palau,,
+USNM,209725,Laticauda colubrina,Philippines,,
+USNM,513410,Laticauda colubrina,Republic of Palau,,
+USNM,507823,Laticauda colubrina,Philippines,,
+USNM,497556,Laticauda colubrina,Philippines,,
+USNM,209733,Laticauda colubrina,Philippines,,
+USNM,577707,Laticauda colubrina,Republic of Palau,,
+USNM,209735,Laticauda colubrina,Philippines,,
+USNM,577711,Laticauda colubrina,Republic of Palau,,
+USNM,497558,Laticauda colubrina,Philippines,,
+USNM,70982,Laticauda colubrina,Indonesia,,
+USNM,507822,Laticauda colubrina,Philippines,,
+USNM,497560,Laticauda colubrina,Philippines,,
+USNM,209721,Laticauda colubrina,Philippines,,
+USNM,209731,Laticauda colubrina,Philippines,,
+USNM,577713,Laticauda colubrina,Republic of Palau,,
+USNM,333582,Laticauda colubrina,Kingdom of Tonga,,
+USNM,83086,Laticauda colubrina,Kingdom of Tonga,,
+USNM,146330,Laticauda laticaudata,,,
+USNM,146320,Laticauda colubrina,,,
+USNM,322538,Laticauda colubrina,Republic of Fiji,,
+USNM,237107,Laticauda colubrina,Indonesia,,
+USNM,146315,Laticauda colubrina,,,
+USNM,508312,Laticauda colubrina,Philippines,,
+USNM,38590,Laticauda colubrina,Philippines,,
+USNM,508314,Laticauda colubrina,Philippines,,
+USNM,497553,Laticauda colubrina,Philippines,,
+USNM,508377,Laticauda colubrina,Philippines,,
+USNM,164918,Laticauda colubrina,Republic of Palau,,
+USNM,37437,Laticauda colubrina,Philippines,,
+USNM,237108,Laticauda colubrina,Indonesia,,
+USNM,70986,Laticauda colubrina,Indonesia,,
+USNM,237109,Laticauda colubrina,Indonesia,,
+USNM,146321,Laticauda colubrina,,,
+USNM,209724,Laticauda colubrina,Philippines,,
+USNM,37360,Laticauda semifasciata,Philippines,,
+USNM,237105,Laticauda colubrina,Indonesia,,
+USNM,507821,Laticauda colubrina,Philippines,,
+USNM,508313,Laticauda colubrina,Philippines,,
+USNM,39952,Laticauda colubrina,Philippines,,
+USNM,28194,Laticauda schistorhyncha,,,
+USNM,209722,Laticauda colubrina,Philippines,,
+USNM,209734,Laticauda colubrina,Philippines,,
+USNM,527997,Laticauda colubrina,Republic of Palau,,
+USNM,237112,Laticauda colubrina,Indonesia,,
+USNM,146327,Laticauda laticaudata,,,
+USNM,237106,Laticauda colubrina,Indonesia,,
+USNM,508311,Laticauda colubrina,Philippines,,
+USNM,30761,Laticauda laticaudata,Indonesia,,
+USNM,237104,Laticauda colubrina,Indonesia,,
+USNM,237115,Laticauda colubrina,Indonesia,,
+USNM,209730,Laticauda colubrina,Philippines,,
+USNM,70983,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66247,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66239,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R6606,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66709,Laticauda laticaudata,Thailand,,
+ZMUC,ZMUC-R66280,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66270,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66205,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66281,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66277,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66252,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66295,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R6683,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66288,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66208,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66449,Laticauda colubrina,Philippines,,
+ZMUC,ZMUC-R66207,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66206,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66291,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66272,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66274,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66284,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R6684,Laticauda colubrina,New Guinea,,
+ZMUC,ZMUC-R66269,Laticauda laticaudata,Papua New Guinea,,
+ZMUC,ZMUC-R6607,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R6681,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66283,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66285,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66240,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66271,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66241,Laticauda colubrina,Fiji Islands,,
+ANSP,,Laticauda colubrina,Palau Islands,,
+BPBM,1295,Laticauda schistorhynchus,Niue,,
+BPBM,7014,Laticauda colubrina,Singapore,,
+BPBM,1293,Laticauda schistorhynchus,Niue,,
+BPBM,1294,Laticauda schistorhynchus,Niue,,
+CAS,237827,Laticauda colubrina,Palau,,
+CAS,248874,Laticauda colubrina,Palau,,
+CAS,248956,Laticauda colubrina,Palau,,
+CM,157193,LATICAUDA LATICAUDA AFFINIS,China,,
+CM,83299,LATICAUDA LATICAUDATA,New Caledonia,,
+CM,83300,LATICAUDA LATICAUDATA,New Caledonia,,
+CUMV,R-0011179,Laticauda colubrina,Fiji,,
+CUMV,R-0011175,Laticauda colubrina,Fiji,,
+EM,56075,Laticauda laticaudatus,Solomon Islands,,
+FMNH,202823,Laticauda semifasciata,Philippine Is,,
+FMNH,75169,Laticauda semifasciata,,,
+FMNH,236355,Laticauda colubrina,Malaysia,,
+FMNH,236326,Laticauda colubrina,Malaysia,,
+FMNH,234154,Laticauda colubrina,Malaysia,,
+FMNH,236350,Laticauda colubrina,Malaysia,,
+FMNH,235420,Laticauda colubrina,Malaysia,,
+FMNH,95179,Laticauda colubrina,Singapore,,
+FMNH,235393,Laticauda colubrina,Malaysia,,
+FMNH,235396,Laticauda colubrina,Malaysia,,
+FMNH,234155,Laticauda colubrina,Malaysia,,
+FMNH,236305,Laticauda colubrina,Malaysia,,
+FMNH,13809,Laticauda colubrina,Solomon Is,,
+FMNH,236347,Laticauda colubrina,Malaysia,,
+FMNH,236277,Laticauda colubrina,Malaysia,,
+FMNH,236237,Laticauda colubrina,Malaysia,,
+FMNH,198594,Laticauda colubrina,West Malaysia,,
+FMNH,236320,Laticauda colubrina,Malaysia,,
+FMNH,202803,Laticauda colubrina,Philippine Is,,
+FMNH,202801,Laticauda colubrina,Philippine Is,,
+FMNH,13810,Laticauda colubrina,Solomon Is,,
+FMNH,97965,Laticauda colubrina,New Caledonia,,
+FMNH,236290,Laticauda colubrina,Malaysia,,
+FMNH,97963,Laticauda colubrina,New Caledonia,,
+FMNH,202813,Laticauda laticaudata,Philippine Is,,
+FMNH,236300,Laticauda colubrina,Malaysia,,
+FMNH,234149,Laticauda colubrina,Malaysia,,
+FMNH,236263,Laticauda colubrina,Malaysia,,
+FMNH,236289,Laticauda colubrina,Malaysia,,
+FMNH,236275,Laticauda colubrina,Malaysia,,
+FMNH,140055,Laticauda colubrina,Philippine Is,,
+FMNH,236251,Laticauda colubrina,Malaysia,,
+FMNH,202809,Laticauda colubrina,Philippine Is,,
+FMNH,236255,Laticauda colubrina,Malaysia,,
+FMNH,236313,Laticauda colubrina,Malaysia,,
+FMNH,235387,Laticauda colubrina,Malaysia,,
+FMNH,248798,Laticauda colubrina,Malaysia,,
+FMNH,202820,Laticauda semifasciata,Philippine Is,,
+FMNH,236358,Laticauda colubrina,Malaysia,,
+FMNH,235402,Laticauda colubrina,Malaysia,,
+FMNH,140050,Laticauda colubrina,Philippine Is,,
+FMNH,236244,Laticauda colubrina,Malaysia,,
+FMNH,43695,Laticauda laticaudata,,,
+FMNH,236293,Laticauda colubrina,Malaysia,,
+FMNH,13811,Laticauda colubrina,Solomon Is,,
+FMNH,236340,Laticauda colubrina,Malaysia,,
+FMNH,202802,Laticauda colubrina,Philippine Is,,
+FMNH,236322,Laticauda colubrina,Malaysia,,
+FMNH,236364,Laticauda colubrina,Malaysia,,
+FMNH,236235,Laticauda colubrina,Malaysia,,
+FMNH,236233,Laticauda colubrina,Malaysia,,
+FMNH,235398,Laticauda colubrina,Malaysia,,
+FMNH,235403,Laticauda colubrina,Malaysia,,
+FMNH,69642,Laticauda colubrina,New Hebrides,,
+FMNH,236330,Laticauda colubrina,Malaysia,,
+FMNH,236299,Laticauda colubrina,Malaysia,,
+FMNH,236310,Laticauda colubrina,Malaysia,,
+FMNH,236258,Laticauda colubrina,Malaysia,,
+FMNH,242179,Laticauda colubrina,Thailand,,
+FMNH,235422,Laticauda colubrina,Malaysia,,
+FMNH,202819,Laticauda semifasciata,Philippine Is,,
+FMNH,236373,Laticauda colubrina,Malaysia,,
+FMNH,40467,Laticauda colubrina,Singapore,,
+FMNH,236337,Laticauda colubrina,Malaysia,,
+FMNH,235409,Laticauda colubrina,Malaysia,,
+FMNH,236339,Laticauda colubrina,Malaysia,,
+FMNH,202821,Laticauda semifasciata,Philippine Is,,
+FMNH,235425,Laticauda colubrina,Malaysia,,
+FMNH,235424,Laticauda colubrina,Malaysia,,
+FMNH,236278,Laticauda colubrina,Malaysia,,
+FMNH,235411,Laticauda colubrina,Malaysia,,
+FMNH,236374,Laticauda colubrina,Malaysia,,
+FMNH,202806,Laticauda colubrina,Philippine Is,,
+FMNH,236257,Laticauda colubrina,Malaysia,,
+FMNH,236344,Laticauda colubrina,Malaysia,,
+FMNH,236353,Laticauda colubrina,Malaysia,,
+FMNH,236302,Laticauda colubrina,Malaysia,,
+FMNH,236284,Laticauda colubrina,Malaysia,,
+FMNH,120644,Laticauda semifasciata,Formosa,,
+FMNH,236270,Laticauda colubrina,Malaysia,,
+FMNH,235412,Laticauda colubrina,Malaysia,,
+FMNH,236262,Laticauda colubrina,Malaysia,,
+FMNH,235395,Laticauda colubrina,Malaysia,,
+FMNH,236354,Laticauda colubrina,Malaysia,,
+FMNH,235415,Laticauda colubrina,Malaysia,,
+FMNH,140054,Laticauda colubrina,Philippine Is,,
+FMNH,202817,Laticauda semifasciata,Philippine Is,,
+FMNH,236248,Laticauda colubrina,Malaysia,,
+FMNH,236279,Laticauda colubrina,Malaysia,,
+FMNH,236342,Laticauda colubrina,Malaysia,,
+FMNH,202798,Laticauda colubrina,Philippine Is,,
+FMNH,97966,Laticauda colubrina,New Caledonia,,
+FMNH,198592,Laticauda colubrina,West Malaysia,,
+FMNH,236304,Laticauda colubrina,Malaysia,,
+FMNH,140056,Laticauda colubrina,Philippine Is,,
+FMNH,236254,Laticauda colubrina,Malaysia,,
+FMNH,236291,Laticauda colubrina,Malaysia,,
+FMNH,236311,Laticauda colubrina,Malaysia,,
+FMNH,236283,Laticauda colubrina,Malaysia,,
+FMNH,202816,Laticauda semifasciata,Philippine Is,,
+FMNH,236341,Laticauda colubrina,Malaysia,,
+FMNH,236343,Laticauda colubrina,Malaysia,,
+FMNH,236371,Laticauda colubrina,Malaysia,,
+FMNH,202808,Laticauda colubrina,Philippine Is,,
+FMNH,235410,Laticauda colubrina,Malaysia,,
+FMNH,235419,Laticauda colubrina,Malaysia,,
+FMNH,236318,Laticauda colubrina,Malaysia,,
+FMNH,235414,Laticauda colubrina,Malaysia,,
+FMNH,235418,Laticauda colubrina,Malaysia,,
+FMNH,236236,Laticauda colubrina,Malaysia,,
+FMNH,236260,Laticauda colubrina,Malaysia,,
+FMNH,234164,Laticauda colubrina,Malaysia,,
+FMNH,13812,Laticauda colubrina,Solomon Is,,
+FMNH,235391,Laticauda colubrina,Malaysia,,
+FMNH,242185,Laticauda laticaudata,Thailand,,
+FMNH,234151,Laticauda colubrina,Malaysia,,
+FMNH,202804,Laticauda colubrina,Philippine Is,,
+FMNH,13655,Laticauda colubrina,New Hebrides,,
+FMNH,236317,Laticauda colubrina,Malaysia,,
+FMNH,235417,Laticauda colubrina,Malaysia,,
+FMNH,167063,Laticauda laticaudata,Indonesia,,
+FMNH,69641,Laticauda laticaudata,New Hebrides,,
+FMNH,198593,Laticauda colubrina,West Malaysia,,
+FMNH,236281,Laticauda colubrina,Malaysia,,
+FMNH,97486,Laticauda colubrina,Australia,,
+FMNH,236292,Laticauda colubrina,Malaysia,,
+FMNH,236366,Laticauda colubrina,Malaysia,,
+FMNH,234150,Laticauda colubrina,Malaysia,,
+FMNH,236271,Laticauda colubrina,Malaysia,,
+FMNH,235392,Laticauda colubrina,Malaysia,,
+FMNH,234147,Laticauda colubrina,Malaysia,,
+FMNH,202810,Laticauda colubrina,Philippine Is,,
+FMNH,13821,Laticauda colubrina,Solomon Is,,
+FMNH,236356,Laticauda colubrina,Malaysia,,
+FMNH,236321,Laticauda colubrina,Malaysia,,
+FMNH,140053,Laticauda colubrina,Philippine Is,,
+FMNH,13938,Laticauda colubrina,New Guinea,,
+FMNH,236239,Laticauda colubrina,Malaysia,,
+FMNH,13822,Laticauda colubrina,Solomon Is,,
+FMNH,236328,Laticauda colubrina,Malaysia,,
+FMNH,236308,Laticauda colubrina,Malaysia,,
+FMNH,235397,Laticauda colubrina,Malaysia,,
+FMNH,236261,Laticauda colubrina,Malaysia,,
+FMNH,202811,Laticauda colubrina,Philippine Is,,
+MCZ,R-118619,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-118622,Laticauda colubrina,,,
+MCZ,R-118623,Laticauda colubrina,,,
+MCZ,R-121563,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-121564,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-149694,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-20650,Laticauda colubrina,Philippines,,
+MCZ,R-34320,Laticauda colubrina,Fiji,,
+MCZ,R-4837,Laticauda fasciatus,,,
+MCZ,R-5269,Laticauda colubrina,Fiji,,
+MCZ,R-5270,Laticauda laticaudata,Fiji,,
+MCZ,R-5554,Laticauda colubrina,Indonesia,,
+MCZ,R-64139,Laticauda colubrina,Solomon Islands,,
+MCZ,R-6447,Laticauda colubrina,Fiji,,
+MCZ,R-6450,Laticauda colubrina,Fiji,,
+MCZ,R-88144,Laticauda colubrina,Papua New Guinea,,
+MCZ,R-929,Laticauda colubrina,Philippines,,
+NCSM,69273,Laticauda colubrina,Indonesia,,
+ZMO,K 2419,Laticauda laticaudata,New Caledonia,,
+NHMUK,1937.2.2.96,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1998.339,"Laticauda colubrina (Schneider, 1799)",Indonesia,,
+RBINS,295353,"Laticauda laticaudata (Linnaeus, 1758)",New Caledonia,,
+RBINS,302537,"Laticauda colubrina (Schneider, 1801)",,,
+RBINS,336287,"Laticauda laticaudata (Linnaeus, 1758)",Indonesia,,
+RBINS,364529,"Laticauda colubrina (Schneider, 1801)",Philippines,,
+RBINS,364530,"Laticauda colubrina (Schneider, 1801)",Philippines,,
+RBINS,390871,"Laticauda colubrina (Schneider, 1801)",New Caledonia,,
+RBINS,442989,"Laticauda laticaudata (Linnaeus, 1758)",New Caledonia,,
+RBINS,516089,"Laticauda laticaudata (Linnaeus, 1758)",New Caledonia,,
+SAMA,R44244,Laticauda colubrina,Tonga,,
+SAMA,R12955,Laticauda colubrina,,,
+SAMA,R37926,Laticauda colubrina,,,
+SDNHM,39194,Laticauda colubrina,Palau,,
+SDNHM,39195,Laticauda colubrina,Palau,,
+SDNHM,39313,Laticauda colubrina,Palau,,
+SDNHM,67132,Laticauda colubrina,Philippines,,
+SDNHM,67133,Laticauda colubrina,Philippines,,
+SDNHM,67136,Laticauda colubrina,Philippines,,
+SDNHM,67138,Laticauda colubrina,Philippines,,
+SDNHM,67141,Laticauda colubrina,Philippines,,
+SDNHM,67142,Laticauda colubrina,Philippines,,
+SDNHM,67146,Laticauda colubrina,Philippines,,
+SDNHM,67147,Laticauda colubrina,Philippines,,
+SDNHM,67148,Laticauda colubrina,Philippines,,
+SDNHM,67150,Laticauda colubrina,Philippines,,
+SDNHM,67154,Laticauda colubrina,Philippines,,
+SDNHM,67155,Laticauda colubrina,Philippines,,
+SDNHM,67157,Laticauda colubrina,Philippines,,
+SDNHM,67158,Laticauda colubrina,Philippines,,
+SDNHM,67159,Laticauda colubrina,Philippines,,
+SDNHM,67160,Laticauda colubrina,Philippines,,
+SDNHM,67165,Laticauda colubrina,Philippines,,
+SDNHM,67172,Laticauda colubrina,Philippines,,
+SDNHM,67173,Laticauda colubrina,Philippines,,
+SDNHM,67176,Laticauda colubrina,Philippines,,
+SDNHM,67178,Laticauda colubrina,Philippines,,
+SDNHM,67179,Laticauda colubrina,Philippines,,
+SDNHM,67182,Laticauda colubrina,Philippines,,
+SDNHM,67183,Laticauda colubrina,Philippines,,
+SDNHM,67184,Laticauda colubrina,Philippines,,
+SDNHM,67185,Laticauda colubrina,Philippines,,
+SDNHM,67186,Laticauda colubrina,Philippines,,
+SDNHM,67187,Laticauda colubrina,Philippines,,
+SDNHM,67188,Laticauda colubrina,Philippines,,
+SDNHM,68127,Laticauda colubrina,,,
+TCWC,73107,Laticauda colubrina,Indonesia,,
+UCM,UCM:Herp:15555,Laticauda colubrina,Republic of Palau,,
+UCM,UCM:Herp:15556,Laticauda colubrina,Republic of Palau,,
+UCM,UCM:Herp:54141,Laticauda colubrina,Taiwan,,
+UCM,UCM:Herp:58883,Laticauda semifasciata,Japan,,
+UCM,UCM:Herp:58886,Laticauda semifasciata,Japan,,
+UCM,UCM:Herp:58889,Laticauda semifasciata,Philippines,,
+UCM,UCM:Herp:58892,Laticauda semifasciata ?,,,
+UF,56253,Laticauda semifasciata,Japan,,
+UF,56259,Laticauda semifasciata,Japan,,
+UF,2181,Laticauda colubrina,Vanuatu,,
+UF,56294,Laticauda laticauda,Japan,,
+UF,56293,Laticauda laticauda,Japan,,
+UF,53437,Laticauda colubrina,Philippines,,
+UF,54028,Laticauda colubrina,Philippines,,
+UF,56255,Laticauda semifasciata,Japan,,
+UF,56273,Laticauda semifasciata,Japan,,
+UF,56300,Laticauda laticauda,Japan,,
+UF,56257,Laticauda semifasciata,Japan,,
+UF,28807,Laticauda semifasciata,Japan,,
+UF,56287,Laticauda semifasciata,Japan,,
+UF,56263,Laticauda semifasciata,Japan,,
+UF,56261,Laticauda semifasciata,Japan,,
+UF,56258,Laticauda semifasciata,Japan,,
+UF,120551,Laticauda colubrina,United States,,
+UF,120632,Laticauda semifasciata,Japan,,
+UF,56303,Laticauda laticauda,Japan,,
+UF,56301,Laticauda laticauda,Japan,,
+UF,56295,Laticauda laticauda,Japan,,
+UF,16896,Laticauda colubrina,France Pacific Islands,,
+UMMZ,100017,Laticauda colubrina,Vanuatu,,
+UMMZ,150154,Laticauda colubrina,New Caledonia,,
+UMMZ,224407,Laticauda colubrina,Palau,,
+UMMZ,224409,Laticauda colubrina,Palau,,
+UMMZ,224411,Laticauda colubrina,Palau,,
+UMMZ,224413,Laticauda colubrina,Palau,,
+UMMZ,93853,Laticauda colubrina,New Caledonia,,
+UMMZ,93855,Laticauda colubrina,New Caledonia,,
+UMMZ,93857,Laticauda colubrina,New Caledonia,,
+UMNH,UMNH:Herp:11013,Laticauda colubrina,Tonga,,
+USNM,122574,Laticauda colubrina,Republic of Palau,,
+USNM,508378,Laticauda colubrina,Philippines,,
+USNM,507824,Laticauda colubrina,Philippines,,
+USNM,237102,Laticauda colubrina,Indonesia,,
+USNM,83092,Laticauda colubrina,Kingdom of Tonga,,
+USNM,508379,Laticauda colubrina,Philippines,,
+USNM,146324,Laticauda colubrina,,,
+USNM,38591,Laticauda colubrina,Philippines,,
+USNM,83088,Laticauda colubrina,Kingdom of Tonga,,
+USNM,497555,Laticauda colubrina,Philippines,,
+USNM,42085,Laticauda laticaudata,Indonesia,,
+USNM,120238,Laticauda colubrina,Vanuatu (Republic of),,
+USNM,83087,Laticauda laticaudata,Kingdom of Tonga,,
+USNM,509343,Laticauda colubrina,Republic of Palau,,
+USNM,497554,Laticauda colubrina,Philippines,,
+USNM,527995,Laticauda colubrina,Republic of Palau,,
+USNM,209726,Laticauda colubrina,Philippines,,
+USNM,39949,Laticauda laticaudata,Philippines,,
+USNM,146319,Laticauda colubrina,,,
+USNM,70985,Laticauda colubrina,Indonesia,,
+USNM,83085,Laticauda colubrina,Kingdom of Tonga,,
+USNM,146316,Laticauda colubrina,,,
+USNM,577704,Laticauda colubrina,Republic of Palau,,
+USNM,237103,Laticauda colubrina,Indonesia,,
+USNM,508381,Laticauda colubrina,Philippines,,
+USNM,29448,Laticauda laticaudata,Nicobar Islands,,
+USNM,70987,Laticauda colubrina,Indonesia,,
+USNM,83089,Laticauda laticaudata,Kingdom of Tonga,,
+USNM,146317,Laticauda colubrina,,,
+USNM,508195,Laticauda colubrina,Philippines,,
+USNM,508194,Laticauda colubrina,Philippines,,
+USNM,508315,Laticauda colubrina,Philippines,,
+USNM,497559,Laticauda colubrina,Philippines,,
+USNM,70984,Laticauda colubrina,Indonesia,,
+USNM,146328,Laticauda colubrina,,,
+USNM,119720,Laticauda colubrina,Vanuatu (Republic of),,
+USNM,38587,Laticauda laticaudata,Philippines,,
+USNM,237110,Laticauda colubrina,Indonesia,,
+USNM,146323,Laticauda colubrina,,,
+USNM,508316,Laticauda colubrina,Philippines,,
+USNM,237113,Laticauda colubrina,Indonesia,,
+USNM,577706,Laticauda colubrina,Republic of Palau,,
+USNM,237111,Laticauda colubrina,Indonesia,,
+USNM,508319,Laticauda colubrina,Philippines,,
+USNM,291833,Laticauda semifasciata,Taiwan,,
+USNM,497557,Laticauda colubrina,Philippines,,
+USNM,146325,Laticauda colubrina,,,
+USNM,28192,Laticauda colubrina,Republic of Fiji,,
+USNM,508318,Laticauda colubrina,Philippines,,
+USNM,209729,Laticauda colubrina,Philippines,,
+USNM,209727,Laticauda colubrina,Philippines,,
+USNM,577710,Laticauda colubrina,Republic of Palau,,
+USNM,507819,Laticauda colubrina,Philippines,,
+USNM,35297,Laticauda colubrina,Indonesia,,
+USNM,39950,Laticauda colubrina,Philippines,,
+USNM,30760,Laticauda colubrina,Indonesia,,
+USNM,237114,Laticauda colubrina,Indonesia,,
+USNM,291832,Laticauda semifasciata,Taiwan,,
+USNM,209732,Laticauda colubrina,Philippines,,
+USNM,508317,Laticauda colubrina,Philippines,,
+USNM,146322,Laticauda colubrina,,,
+USNM,508380,Laticauda colubrina,Philippines,,
+USNM,527998,Laticauda colubrina,Republic of Palau,,
+USNM,209723,Laticauda colubrina,Philippines,,
+USNM,83091,Laticauda colubrina,Kingdom of Tonga,,
+ZMUC,ZMUC-R66144,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R6685,Laticauda colubrina,New Guinea,,
+ZMUC,ZMUC-R66260,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66273,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66298,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66290,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R6608,Laticauda laticaudata wolfi,Solomon Islands,,
+ZMUC,ZMUC-R66279,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66275,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66267,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66276,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66286,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66450,Laticauda laticaudata,Solomon Islands,,
+ZMUC,ZMUC-R6682,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66297,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66289,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66294,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66712,Laticauda colubrina,Thailand,,
+ZMUC,ZMUC-R66287,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66278,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66243,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66242,Laticauda colubrina,Fiji Islands,,
+ZMUC,ZMUC-R66282,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66292,Laticauda colubrina,Papua New Guinea,,
+ZMUC,ZMUC-R66253,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66296,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66710,Laticauda laticaudata,Thailand,,
+ZMUC,ZMUC-R66293,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66255,Laticauda colubrina,Indonesia,,
+CAS,23625,Laticauda colubrina,Palau,,
+CM,66968,LATICAUDA COLUBRINA,Philippines,,
+CM,66969,LATICAUDA COLUBRINA,Philippines,,
+CM,66970,LATICAUDA COLUBRINA,Philippines,,
+CM,66971,LATICAUDA COLUBRINA,Philippines,,
+CM,66973,LATICAUDA COLUBRINA,Philippines,,
+CM,66974,LATICAUDA COLUBRINA,Philippines,,
+CM,68803,LATICAUDA COLUBRINA,Philippines,,
+CM,68804,LATICAUDA COLUBRINA,Philippines,,
+CM,68806,LATICAUDA COLUBRINA,Philippines,,
+CM,68807,LATICAUDA COLUBRINA,Philippines,,
+CM,68808,LATICAUDA COLUBRINA,Philippines,,
+CM,68810,LATICAUDA COLUBRINA,Philippines,,
+CM,68811,LATICAUDA COLUBRINA,Philippines,,
+CM,68812,LATICAUDA COLUBRINA,Philippines,,
+CM,68813,LATICAUDA COLUBRINA,Philippines,,
+CM,90251,LATICAUDA COLUBRINA,Philippines,,
+CM,R2228,LATICAUDA COLUBRINA,Philippines,,
+CM,R2231,LATICAUDA COLUBRINA,Philippines,,
+CM,R2232,LATICAUDA COLUBRINA,Philippines,,
+CM,R2623,LATICAUDA LATICAUDATA,Philippines,,
+CM,R2624,LATICAUDA LATICAUDATA,Philippines,,
+CUMV,R-0002586,Laticauda laticaudata,,,
+FMNH,244198,Laticauda colubrina,Malaysia,,
+FMNH,244193,Laticauda colubrina,Malaysia,,
+FMNH,244186,Laticauda colubrina,Malaysia,,
+FMNH,244200,Laticauda colubrina,Malaysia,,
+FMNH,244189,Laticauda colubrina,Malaysia,,
+FMNH,244187,Laticauda colubrina,Malaysia,,
+FMNH,244185,Laticauda colubrina,Malaysia,,
+FMNH,244184,Laticauda colubrina,Malaysia,,
+FMNH,244191,Laticauda colubrina,Malaysia,,
+FMNH,244199,Laticauda colubrina,Malaysia,,
+FMNH,244202,Laticauda colubrina,Malaysia,,
+FMNH,244192,Laticauda colubrina,Malaysia,,
+FMNH,244190,Laticauda colubrina,Malaysia,,
+FMNH,244194,Laticauda colubrina,Malaysia,,
+LACM,129643,Laticauda laticauda,Philippines,,
+LACM,129648,Laticauda semifasciata,Philippines,,
+LACM,129645,Laticauda colubrina,Philippines,,
+LACM,129647,Laticauda semifasciata,Philippines,,
+LACM,3184,Laticauda colubrina,,,
+LACM,129644,Laticauda laticauda,Philippines,,
+LSUMZ,24770,Laticauda laticaudata,Philippines,,
+LSUMZ,24807,Laticauda semifasciata,Japan,,
+LSUMZ,48195,Laticauda laticaudata,New Caledonia,,
+UMMZ,100016,Laticauda colubrina,Vanuatu,,
+UMMZ,99996,Laticauda colubrina,Solomon Islands,,
+USNM,127999,Laticauda colubrina,New Guinea - Indonesia,,
+USNM,70976,Laticauda colubrina,Indonesia,,
+USNM,70979,Laticauda colubrina,Indonesia,,
+YPM,YPM HERR 010087,Laticauda colubrina,Philippines,,
+ANSP,,Laticauda laticaudata,Indonesia,,
+CM,111919,LATICAUDA LATICAUDATA,Philippines,,
+CM,66964,LATICAUDA COLUBRINA,Philippines,,
+CM,66965,LATICAUDA COLUBRINA,Philippines,,
+CM,66966,LATICAUDA COLUBRINA,Philippines,,
+CM,66967,LATICAUDA COLUBRINA,Philippines,,
+CM,66972,LATICAUDA COLUBRINA,Philippines,,
+CM,66975,LATICAUDA COLUBRINA,Philippines,,
+CM,66976,LATICAUDA COLUBRINA,Philippines,,
+CM,66977,LATICAUDA COLUBRINA,Philippines,,
+CM,68805,LATICAUDA COLUBRINA,Philippines,,
+CM,68809,LATICAUDA COLUBRINA,Philippines,,
+CM,68814,LATICAUDA COLUBRINA,Philippines,,
+CM,R2229,LATICAUDA COLUBRINA,Philippines,,
+CM,R2235,LATICAUDA COLUBRINA,Philippines,,
+CM,R2622,LATICAUDA LATICAUDATA,Philippines,,
+CUMV,R-0001896,Laticauda colubrina,Malaysia,,
+FMNH,244196,Laticauda colubrina,Malaysia,,
+FMNH,244197,Laticauda colubrina,Malaysia,,
+FMNH,244201,Laticauda colubrina,Malaysia,,
+FMNH,244188,Laticauda colubrina,Malaysia,,
+FMNH,244183,Laticauda colubrina,Malaysia,,
+FMNH,131252,Laticauda colubrina,,,
+FMNH,244195,Laticauda colubrina,Malaysia,,
+LACM,129646,Laticauda colubrina,Philippines,,
+LSUMZ,19359,Laticauda semifasciata,Taiwan,,
+LSUMZ,24806,Laticauda semifasciata,Japan,,
+NHMUK,1937.2.2.97,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+UMMZ,150155,Laticauda colubrina,Vanuatu,,
+UMMZ,99995,Laticauda colubrina,Solomon Islands,,
+USNM,70978,Laticauda colubrina,Indonesia,,
+USNM,134223,Laticauda semifasciata,Taiwan,,
+USNM,28193,Laticauda colubrina,Republic of Fiji,,
+USNM,134224,Laticauda semifasciata,Taiwan,,
+USNM,70975,Laticauda colubrina,Indonesia,,
+FMNH,248797,Laticauda colubrina,Malaysia,,
+FMNH,120654,Laticauda semifasciata,Formosa,,
+FMNH,210062,Laticauda colubrina,West Malaysia,,
+FMNH,120648,Laticauda semifasciata,Formosa,,
+FMNH,168004,Laticauda colubrina,Caroline Is,,
+FMNH,120641,Laticauda colubrina,Formosa,,
+FMNH,10930,Laticauda colubrina,,,
+FMNH,210061,Laticauda colubrina,West Malaysia,,
+FMNH,120642,Laticauda colubrina,Formosa,,
+FMNH,236523,Laticauda colubrina,Malaysia,,
+FMNH,120650,Laticauda semifasciata,Formosa,,
+FMNH,210064,Laticauda colubrina,West Malaysia,,
+MZLU,L933/3082,"Laticauda laticaudata (Linnaeus, 1758)",,,
+ZMO,K 2417,Laticauda laticaudata,Chinese Taipei,,
+ZMO,K 2420,Laticauda laticaudata,Australia,,
+ZMO,K 2421,Laticauda laticaudata,Chinese Taipei,,
+NHMUK,1967.844,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+SMNS,4201,Laticauda colubrina,Indonesia,,
+SMNS,4204,Laticauda laticaudata,,,
+USNM,141683,Laticauda colubrina,Taiwan,,
+USNM,237116,Laticauda colubrina,Indonesia,,
+USNM,158052,Laticauda schistorhyncha,,,
+USNM,237118,Laticauda colubrina,Indonesia,,
+USNM,133980,Laticauda semifasciata,Japan,,
+USNM,158051,Laticauda schistorhyncha,,,
+USNM,158049,Laticauda schistorhyncha,,,
+USNM,268400,Laticauda colubrina,Republic of Fiji,,
+FMNH,120646,Laticauda semifasciata,Formosa,,
+FMNH,120647,Laticauda semifasciata,Formosa,,
+FMNH,120649,Laticauda semifasciata,Formosa,,
+FMNH,120651,Laticauda semifasciata,Formosa,,
+FMNH,120653,Laticauda semifasciata,Formosa,,
+FMNH,210063,Laticauda colubrina,West Malaysia,,
+FMNH,120643,Laticauda colubrina,Formosa,,
+FMNH,121598,Laticauda colubrina,Caroline Is,,
+FMNH,120652,Laticauda semifasciata,Formosa,,
+ZMO,K 2422,Laticauda colubrina,Indonesia,,
+ZMO,K 2423,Laticauda colubrina,Fiji,,
+ZMO,K 2424,Laticauda colubrina,Singapore,,
+OMNH,34895.0,Laticauda colubrina,,,
+ROM,16257,Laticauda colubrina,Fiji,,
+SMNS,4200,Laticauda colubrina,,,
+USNM,32669,Laticauda laticaudata,Taiwan,,
+USNM,237119,Laticauda colubrina,Indonesia,,
+USNM,268401,Laticauda colubrina,Republic of Fiji,,
+USNM,158050,Laticauda schistorhyncha,,,
+USNM,237117,Laticauda colubrina,Indonesia,,
+USNM,268399,Laticauda colubrina,Republic of Fiji,,
+USNM,133979,Laticauda laticaudata,Japan,,
+AM,R.13531,Laticauda saintgironsi,New Caledonia,,
+AMNH,R-116019,Laticauda colubrina,Palau,,
+AMNH,R-117759,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-117775,Laticauda colubrina,New Caledonia,,
+AMNH,R-119846,Laticauda colubrina,Fiji,,
+AMNH,R-119847,Laticauda colubrina,Fiji,,
+AMNH,R-119849,Laticauda colubrina,Fiji,,
+AMNH,R-119851,Laticauda colubrina,Fiji,,
+AMNH,R-119854,Laticauda colubrina,Fiji,,
+AMNH,R-119855,Laticauda colubrina,Fiji,,
+AMNH,R-119856,Laticauda colubrina,Fiji,,
+AMNH,R-119857,Laticauda colubrina,Fiji,,
+AMNH,R-124915,Laticauda laticaudata crockeri,Solomon Islands,,
+AMNH,R-124916,Laticauda laticaudata crockeri,Solomon Islands,,
+AMNH,R-140374,Laticauda semifasciata,,,
+AMNH,R-160149,Laticauda semifasciata,,,
+AMNH,R-161776,Laticauda colubrina,Malaysia,,
+AMNH,R-161779,Laticauda semifasciata,Philippines,,
+AMNH,R-23077,Laticauda laticaudata,Australia,,
+AMNH,R-23093,Laticauda laticaudata,Australia,,
+AMNH,R-28996,Laticauda colubrina,,,
+AMNH,R-28998,Laticauda colubrina,Fiji,,
+AMNH,R-29000,Laticauda colubrina,,,
+AMNH,R-29003,Laticauda colubrina,Fiji,,
+AMNH,R-29004,Laticauda colubrina,Fiji,,
+AMNH,R-32244,Laticauda colubrina,Indonesia,,
+AMNH,R-40212,Laticauda colubrina,Fiji,,
+AMNH,R-40213,Laticauda colubrina,Fiji,,
+AMNH,R-40307,Laticauda colubrina,Tonga,,
+AMNH,R-40450,Laticauda colubrina,Fiji,,
+AMNH,R-40453,Laticauda laticaudata,Fiji,,
+AMNH,R-40577,Laticauda colubrina,Tonga,,
+AMNH,R-42006,Laticauda colubrina,Vanuatu,,
+AMNH,R-42009,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-42048,Laticauda colubrina,Solomon Islands,,
+AMNH,R-42049,Laticauda colubrina,Solomon Islands,,
+AMNH,R-43873,Laticauda colubrina,Solomon Islands,,
+AMNH,R-66580,Laticauda laticaudata,Japan,,
+AMNH,R-82444,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82446,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82448,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82450,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82456,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82457,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82460,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82461,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-89446,Laticauda colubrina,Solomon Islands,,
+ANSP,,Laticauda colubrina,Solomon Islands,,
+ANSP,,Laticauda laticaudata,,,
+ANSP,,Laticauda colubrina,East Indies,,
+ANSP,,Laticauda colubrina,Marquesas Islands,,
+ANSP,,Laticauda colubrina,Marquesas Islands,,
+ANSP,,Laticauda colubrina,Fiji Islands,,
+ANSP,,Laticauda colubrina,South Sea Islands,,
+ANSP,,Laticauda colubrina,Society Islands,,
+BPBM,1276,Platurus scutatus,Australia,,
+BPBM,1509,Laticauda colubrina,Fiji,,
+CAS,15167,Laticauda colubrina,Philippine Ids.,,
+CAS,15363,Laticauda colubrina,Philippine Ids.,,
+CAS,314,Laticauda colubrina,Vanuatu,,
+CAS,55146,Laticauda laticaudata,,,
+CAS,23619,Laticauda colubrina,,,
+CM,R2233,LATICAUDA COLUBRINA,Philippines,,
+FMNH,202824,Laticauda semifasciata,,,
+FMNH,106060,Laticauda semifasciata,,,
+FMNH,22995,Laticauda colubrina,Fiji Is,,
+FMNH,236296,Laticauda colubrina,Malaysia,,
+FMNH,21728,Laticauda colubrina,,,
+FMNH,236345,Laticauda colubrina,Malaysia,,
+KU,349155,Laticauda colubrina,Philippines,,
+KU,349145,Laticauda colubrina,Philippines,,
+KU,349150,Laticauda colubrina,Philippines,,
+KU,349146,Laticauda colubrina,Philippines,,
+KU,349151,Laticauda colubrina,Philippines,,
+KU,349154,Laticauda colubrina,Philippines,,
+KU,309643,Laticauda colubrina,Philippines,,
+KU,303033,Laticauda cf. colubrina,Philippines,,
+KU,303030,Laticauda colubrina,Philippines,,
+KU,303029,Laticauda colubrina,Philippines,,
+KU,349157,Laticauda colubrina,Philippines,,
+KU,314036,Laticauda colubrina,Philippines,,
+LACM,146043,Laticauda colubrina,Palau,,
+LSUMZ,39257,Laticauda colubrina,,,
+LSUMZ,2736,Laticauda colubrina,,,
+MCZ,R-1300,Laticauda colubrina,Republic of Palau,,
+MCZ,R-23787,Laticauda colubrina,Philippines,,
+MCZ,R-24899,Laticauda laticaudata,Philippines,,
+MCZ,R-25806,Laticauda laticaudata,Philippines,,
+MCZ,R-38172,Laticauda colubrina,Fiji,,
+MSUM,SH.3089,Laticauda colubrina,,,
+NHMUK,1855.10.16.439,"Laticauda laticaudata (Linnaeus, 1758)",Australia,,
+NHMUK,1934.12.8.47,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1859.9.20.20,"Laticauda laticaudata (Linnaeus, 1758)",Thailand,,
+NHMUK,1988.1-3,Laticauda laticaudata,New Caledonia,,
+NHMUK,1936.7.9.7,"Laticauda colubrina (Schneider, 1799)",Singapore,,
+NHMUK,1930.5.8.832,"Laticauda colubrina (Schneider, 1799)",Japan,,
+NHMUK,1894.10.10.4,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1946.1.6.95-98,"Laticauda schistorhynchus Gunther, 1874",,,
+NHMUK,1842.11.22.34,"Laticauda laticaudata (Linnaeus, 1758)",,,
+NHMUK,1856.9.4.51-52,"Laticauda colubrina (Schneider, 1799)",Fiji,,
+NHMUK,1938.8.2.13-14,"Laticauda colubrina (Schneider, 1799)",Fiji,,
+NHMUK,1955.1.13.10,"Laticauda crockeri Slevin, 1934",Solomon Islands,,
+NHMUK,1856.7.7.30,"Laticauda colubrina (Schneider, 1799)",,,
+NHMUK,1936.7.9.9,"Laticauda colubrina (Schneider, 1799)",Singapore,,
+NHMUK,1905.11.29.21-22,"Laticauda colubrina (Schneider, 1799)",,,
+NHMUK,1955.1.13.11,"Laticauda colubrina Schneider, 1799",Solomon Islands,,
+NHMUK,1925.12.8.2,"Laticauda laticaudata (Linnaeus, 1758)",India,,
+NHMUK,1938.1.17.1,"Laticauda colubrina (Schneider, 1799)",Fiji,,
+NHMUK,1954.1.3.53,"Laticauda semifasciata (Reinwardt, 1837)",Taiwan,,
+NHMUK,1855.8.16.45,"Laticauda colubrina (Schneider, 1799)",New Caledonia,,
+NHMUK,1913.7.18.1,"Laticauda colubrina (Schneider,1799)",Japan,,
+NHMUK,1901.10.23.9,"Laticauda laticaudata (Linnaeus, 1758)",Japan,,
+NHMUK,1925.12.8.1,"Laticauda saintgironsi Cogger & Heatwole, 2005",New Zealand,,
+NHMUK,1855.8.16.46,"Laticauda colubrina (Schneider, 1799)",Vanuatu,,
+NHMUK,1906.8.16.47,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,
+NHMUK,1928.4.11.2,Laticauda colubrina,,,
+NHMUK,1926.11.1.6,"Laticauda laticaudata (Linnaeus, 1758)",Indonesia,,
+NHMUK,1926.11.1.4,"Laticauda colubrina (Schneider, 1799)",Philippines,,
+NHMUK,1935.4.7.5-6,"Laticauda colubrina (Schneider, 1799)",Fiji,,
+NHMUK,1847.3.4.66A,"Laticauda colubrina (Schneider, 1799)",,,
+NHMUK,1888.8.30.11-12,"Laticauda colubrina (Schneider, 1799)",Indonesia,,
+NHMUK,1977.2033,"Laticauda colubrina (Schneider, 1799)",Thailand,,
+NHMUK,1847.3.4.88,"Laticauda colubrina (Schneider, 1799)",Philippines,,
+NHMUK,1961.1991,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1927.9.28.1,"Laticauda laticaudata (Linnaeus, 1758)",Philippines,,
+NHMUK,1847.3.4,"Laticauda colubrina (Schneider, 1799)",India,,
+NHMUK,1936.7.9.5-6,"Laticauda colubrina (Schneider, 1799)",Singapore,,
+NHMUK,1887.1.31.35,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,
+NHMUK,1954.1.13.8-9,"Laticauda colubrina Schneider, 1799",,,
+NHMUK,1988.732,Laticauda colubrina,,,
+NMR,NMR998800000685,Laticauda sp.,,,
+QM,J4097,Laticauda colubrina,Papua New Guinea,,
+QM,J796,Laticauda frontalis,Australia,,
+QM,J305,Laticauda guineai,,,
+QM,J798,Laticauda frontalis,Australia,,
+QM,J43762,Laticauda frontalis,,,
+QM,J603,Laticauda guineai,Papua New Guinea,,
+QM,J304,Laticauda guineai,Papua New Guinea,,
+QM,J803,Laticauda colubrina,Australia,,
+QM,J800,Laticauda colubrina,Australia,,
+QM,J797,Laticauda colubrina,Australia,,
+QM,J793,Laticauda colubrina,Australia,,
+QM,J802,Laticauda colubrina,,,
+QM,J157,Laticauda frontalis,Papua New Guinea,,
+QM,J4098,Laticauda colubrina,,,
+RBINS,329960,"Laticauda laticaudata (Linnaeus, 1758)",,,
+RBINS,534243,"Laticauda laticaudata (Linnaeus, 1758)",Papua New Guinea,,
+RBINS,548290,"Laticauda colubrina (Schneider, 1801)",,,
+RBINS,587190,"Laticauda colubrina (Schneider, 1801)",,,
+SAMA,R2291,Laticauda laticaudata,,,
+SAMA,R26960,Laticauda colubrina,,,
+SAMA,R12958,Laticauda laticaudata,Australia,,
+SDNHM,63340,Laticauda colubrina,,,
+SDNHM,67191,Laticauda colubrina,,,
+SDNHM,67195,Laticauda colubrina,,,
+SDNHM,67198,Laticauda colubrina,,,
+SDNHM,67200,Laticauda colubrina,Philippines,,
+SDNHM,67201,Laticauda semifasciata,Japan,,
+SDNHM,67202,Laticauda semifasciata,Japan,,
+SDNHM,67205,Laticauda semifasciata,Japan,,
+SDNHM,67207,Laticauda semifasciata,Japan,,
+SDNHM,67208,Laticauda semifasciata,Japan,,
+SDNHM,67209,Laticauda laticaudata,Philippines,,
+SDNHM,67211,Laticauda laticaudata,Japan,,
+SDNHM,67213,Laticauda laticaudata,Japan,,
+SDNHM,67214,Laticauda laticaudata,Japan,,
+SDNHM,67526,Laticauda semifasciata,,,
+SDNHM,67527,Laticauda semifasciata,,,
+SDNHM,67624,Laticauda semifasciata,China,,
+SMNS,4202,Laticauda colubrina,,,
+SMNS,4205,Laticauda laticaudata,,,
+UF,56846,Laticauda colubrina,Fiji,,
+UF,69264,Laticauda colubrina,Fiji,,
+UF,56266,Laticauda semifasciata,Japan,,
+UF,68827,Laticauda colubrina,Fiji,,
+UF,56267,Laticauda semifasciata,Japan,,
+UF,56847,Laticauda colubrina,Fiji,,
+UF,11829,Laticauda fasciata,,,
+UF,56127,Laticauda colubrina,Fiji,,
+UF,57730,Laticauda colubrina,Fiji,,
+UF,57708,Laticauda colubrina,Fiji,,
+UF,57042,Laticauda colubrina,Fiji,,
+UF,56272,Laticauda semifasciata,Japan,,
+UMMZ,128562,Laticauda colubrina,,,
+UMMZ,64461,Laticauda colubrina,Singapore,,
+UMMZ,65484,Laticauda laticaudata,,,
+UMZC,R8. 107/3,Laticauda platurus,Ceylon [Sri Lanka],,
+UMZC,R8. 107/4,Laticauda platurus,[Panama],,
+UMZC,R8. 107/6,Laticauda platurus,[Maldives; Indian Ocean],,
+UMZC,R8. 99/1,Laticauda fasciatus,[Indonesia],,
+USNM,7338,Laticauda colubrina,,,
+USNM,7380,Laticauda semifasciata,Japan,,
+USNM,61912,Laticauda schistorhyncha,,,
+USNM,37376,Laticauda colubrina,Philippines,,
+USNM,121548,Laticauda colubrina,,,
+USNM,61899,Laticauda schistorhyncha,,,
+USNM,61904,Laticauda schistorhyncha,,,
+USNM,61902,Laticauda schistorhyncha,,,
+USNM,42069,Laticauda colubrina,Philippines,,
+USNM,61898,Laticauda schistorhyncha,,,
+USNM,61897,Laticauda schistorhyncha,,,
+USNM,61901,Laticauda schistorhyncha,,,
+USNM,11033,Laticauda colubrina,,,
+USNM,61900,Laticauda schistorhyncha,,,
+USNM,61909,Laticauda schistorhyncha,,,
+USNM,61910,Laticauda schistorhyncha,,,
+USNM,8994,Laticauda laticaudata,Indonesia,,
+USNM,61906,Laticauda schistorhyncha,,,
+UTA,41025,Laticauda semifasciata,Philippines,,
+UTA,6355,Laticauda laticaudata,,,
+YPM,YPM HERR 010590,Laticauda laticaudata,Australia,,
+YPM,YPM HERR 000420,Laticauda laticaudata,China,,
+ZMUC,ZMUC-R66142,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66258,Laticauda colubrina,India,,
+ZMUC,ZMUC-R66262,Laticauda laticaudata,India,,
+ZMUC,ZMUC-R66139,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66137,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66237,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66131,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66256,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66447,Laticauda colubrina,Malaysia,,
+ZMUC,ZMUC-R66134,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66254,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66138,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66127,Laticauda colubrina,Fiji Islands,,
+AM,R.13009,Laticauda colubrina,Samoa,,
+AMNH,R-108593,Laticauda colubrina,Indonesia,,
+AMNH,R-119848,Laticauda colubrina,Fiji,,
+AMNH,R-119850,Laticauda colubrina,Fiji,,
+AMNH,R-119852,Laticauda colubrina,Fiji,,
+AMNH,R-119853,Laticauda colubrina,Fiji,,
+AMNH,R-140375,Laticauda semifasciata,,,
+AMNH,R-140376,Laticauda colubrina,,,
+AMNH,R-160741,Laticauda colubrina,Philippines,,
+AMNH,R-161777,Laticauda colubrina,Palau,,
+AMNH,R-161778,Laticauda laticaudata,Philippines,,
+AMNH,R-20956,Laticauda colubrina,Tonga,,
+AMNH,R-23067,Laticauda colubrina,,,
+AMNH,R-23068,Laticauda colubrina,,,
+AMNH,R-23098,Laticauda laticaudata,Australia,,
+AMNH,R-28997,Laticauda colubrina,,,
+AMNH,R-29001,Laticauda colubrina,Fiji,,
+AMNH,R-29002,Laticauda colubrina,,,
+AMNH,R-29005,Laticauda colubrina,Fiji,,
+AMNH,R-29006,Laticauda laticaudata,Fiji,,
+AMNH,R-38108,Laticauda colubrina,,,
+AMNH,R-38109,Laticauda colubrina,,,
+AMNH,R-38111,Laticauda colubrina,,,
+AMNH,R-3902,Laticauda laticaudata,,,
+AMNH,R-40510,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-40511,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-42008,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-42155,Laticauda colubrina,Solomon Islands,,
+AMNH,R-43987,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-44962,Laticauda schistorhynchus,,,
+AMNH,R-57705,Laticauda colubrina,Vanuatu,,
+AMNH,R-70640,Laticauda colubrina,Palau,,
+AMNH,R-70641,Laticauda colubrina,Palau,,
+AMNH,R-70642,Laticauda colubrina,Palau,,
+AMNH,R-71528,Laticauda colubrina,Indonesia,,
+AMNH,R-74662,Laticauda colubrina,,,
+AMNH,R-76680,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-81880,Laticauda colubrina,,,
+AMNH,R-82445,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82447,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82449,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82451,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82452,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82453,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82454,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82455,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82458,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82459,Laticauda colubrina,Papua New Guinea,,
+AMNH,R-82462,Laticauda colubrina,Papua New Guinea,,
+ANSP,,Laticauda colubrina,,,
+BYU,573975,Laticauda colubrina,Fiji,,
+CAS,220643,Laticauda colubrina,,,
+CAS,322,Laticauda colubrina,,,
+CAS,55145,Laticauda laticaudata,,,
+CAS,23613,Laticauda colubrina,,,
+CAS,23614,Laticauda colubrina,,,
+CAS,23615,Laticauda colubrina,,,
+CM,111920,LATICAUDA LATICAUDATA,,,
+CM,R2230,LATICAUDA COLUBRINA,Philippines,,
+CM,R2234,LATICAUDA COLUBRINA,Philippines,,
+CUMV,R-0014247,Laticauda colubrina,,,
+EM,56076,Laticauda laticaudatus,,,
+FMNH,235388,Laticauda colubrina,Malaysia,,
+FMNH,123884,Laticauda colubrina,Philippine Is,,
+FMNH,13930,Laticauda colubrina,New Guinea Terr,,
+FMNH,4047,Laticauda colubrina,East Indies,,
+FMNH,236346,Laticauda colubrina,Malaysia,,
+FMNH,236245,Laticauda colubrina,Malaysia,,
+KU,349147,Laticauda colubrina,Philippines,,
+KU,349149,Laticauda colubrina,Philippines,,
+KU,349158,Laticauda colubrina,Philippines,,
+KU,349148,Laticauda colubrina,Philippines,,
+KU,349153,Laticauda colubrina,Philippines,,
+KU,349156,Laticauda colubrina,Philippines,,
+KU,349152,Laticauda colubrina,Philippines,,
+KU,303034,Laticauda colubrina,Philippines,,
+KU,303032,Laticauda colubrina,Philippines,,
+KU,303031,Laticauda colubrina,Philippines,,
+KU,129742,Laticauda colubrina,Papua New Guinea,,
+KU,349159,Laticauda colubrina,Philippines,,
+LACM,146044,Laticauda colubrina,Palau,,
+LSUMZ,54777,Laticauda laticaudata,,,
+LSUMZ,7744,Laticauda colubrina,,,
+MCZ,R-131500,Laticauda laticaudata,,,
+MCZ,R-174309,Laticauda colubrina,,,
+MCZ,R-23784,Laticauda colubrina,Fiji,,
+MCZ,R-23786,Laticauda colubrina,Philippines,,
+MCZ,R-23794,Laticauda laticaudata,,,
+MCZ,R-25137,Laticauda schistorhynchus,New Zealand,,
+MCZ,R-47150,Laticauda colubrina,Vanuatu,,
+MCZ,R-4834,Laticauda colubrina,,,
+MSUM,SH.2158,Laticauda colubrina,,,
+NCSM,7456,Laticauda laticaudata,,,
+ZMO,K 2418,Laticauda laticaudata,Thailand,,
+NHMUK,1863.10.2.9,"Laticauda colubrina (Schneider, 1799)",Federated States of Micronesia,,
+NHMUK,1887.1.31.36-37,"Laticauda laticaudata (Linnaeus, 1758)",Japan,,
+NHMUK,1895.12.28.6-7,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1855.8.16.43-44,"Laticauda laticaudata (Linnaeus, 1758)",New Caledonia,,
+NHMUK,1906.8.16.30-33,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,
+NHMUK,1891.11.19.11,"Laticauda colubrina (Schneider, 1799)",Indonesia,,
+NHMUK,1930.5.8.831,"Laticauda laticaudata (Linnaeus, 1758)",India,,
+NHMUK,1892.6.7.4,"Laticauda colubrina (Schneider, 1799)",Vanuatu,,
+NHMUK,RR 1966.309,"Laticauda laticaudata (Linnaeus, 1758)",Vanuatu,,
+NHMUK,1954.1.3.52,"Laticauda colubrina (Schneider, 1799)",Taiwan,,
+NHMUK,1890.2.26.19,"Laticauda colubrina (Schneider, 1799)",Fiji,,
+NHMUK,1936.2.1.17,"Laticauda laticaudata (Linnaeus, 1758)",Solomon Islands,,
+NHMUK,1882.8.30.1,"Laticauda colubrina (Schneider, 1799)",Papua New Guinea,,
+NHMUK,1977.2034-2035,"Laticauda colubrina (Schneider, 1799)",Thailand,,
+NHMUK,1842.11.22.32,"Laticauda laticaudata (Linnaeus, 1758)",,,
+NHMUK,1877.2.24.18,Laticauda laticaudata,Papua New Guinea,,
+NHMUK,1910.4.26.67,"Laticauda colubrina (Schneider, 1799)",Indonesia,,
+NHMUK,1936.7.7.3-4,"Laticauda colubrina (Schneider, 1799)",,,
+NHMUK,1956.1.4.21,"Laticauda colubrina (Schneider, 1799)",Vanuatu,,
+NHMUK,1978.981-985,Laticauda semifasciata,Japan,,
+NHMUK,1933.3.4.3,"Laticauda colubrina (Schneider, 1799)",Solomon Islands,,
+NHMUK,1926.11.1.5,"Laticauda colubrina (Schneider, 1799)",Singapore,,
+NHMUK,1936.7.9.8,"Laticauda colubrina (Schneider, 1799)",Singapore,,
+NHMUK,1856.9.4.58,"Laticauda laticaudata (Linnaeus, 1758)",Fiji,,
+NHMUK,1930.11.15.3,"Laticauda colubrina (Schneider, 1799)",,,
+NHMUK,1838.9.25.11,"Laticauda colubrina (Schneider, 1799)",Australia,,
+NHMUK,1860.3.19.1149,"Laticauda colubrina (Schneider, 1799)",Malaysia,,
+NHMUK,1863.6.16.43,"Laticauda colubrina (Schneider, 1799)",Australia,,
+NHMUK,1930.5.8.830,"Laticauda laticaudata (Linnaeus, 1758)",Japan,,
+NHMUK,1855.11.7.31,"Laticauda laticaudata (Linnaeus,1758)",Solomon Islands,,
+NMR,NMR998800000680,Laticauda sp.,,,
+QM,J795,Laticauda frontalis,Australia,,
+QM,J794,Laticauda frontalis,Australia,,
+QM,J789,Laticauda colubrina,Australia,,
+QM,J792,Laticauda colubrina,Australia,,
+QM,J333,Laticauda colubrina,,,
+QM,J791,Laticauda frontalis,,,
+QM,J303,Laticauda guineai,,,
+QM,J7040,Laticauda guineai,Papua New Guinea,,
+QM,J334,Laticauda frontalis,Australia,,
+QM,J202,Laticauda frontalis,Papua New Guinea,,
+RBINS,401520,"Laticauda colubrina (Schneider, 1801)",,,
+RBINS,580713,"Laticauda laticaudata (Linnaeus, 1758)",,,
+RBINS,671962,"Laticauda colubrina (Schneider, 1801)",,,
+RBINS,671963,"Laticauda colubrina (Schneider, 1801)",,,
+ROM,43377,Laticauda sp.,,,
+ROM,CR043,Laticauda colubrina,,,
+SAMA,R1028,Laticauda laticaudata,,,
+SAMA,R26976,Laticauda laticaudata,,,
+SAMA,R2281,Laticauda colubrina,,,
+SDNHM,63761,Laticauda colubrina,,,
+SDNHM,64907,Laticauda colubrina,,,
+SDNHM,67192,Laticauda colubrina,,,
+SDNHM,67193,Laticauda colubrina,,,
+SDNHM,67194,Laticauda colubrina,,,
+SDNHM,67196,Laticauda colubrina,,,
+SDNHM,67197,Laticauda colubrina,,,
+SDNHM,67199,Laticauda colubrina,,,
+SDNHM,67203,Laticauda semifasciata,Japan,,
+SDNHM,67204,Laticauda semifasciata,Japan,,
+SDNHM,67206,Laticauda semifasciata,Japan,,
+SDNHM,67210,Laticauda laticaudata,Japan,,
+SDNHM,67212,Laticauda laticaudata,Japan,,
+SDNHM,67524,Laticauda semifasciata,,,
+SDNHM,67525,Laticauda semifasciata,,,
+SDNHM,67528,Laticauda semifasciata,,,
+SDNHM,68078,Laticauda colubrina,,,
+UBCBBM,H000687,Laticauda shistorhyncus,India,,
+UF,69241,Laticauda colubrina,Fiji,,
+UF,56128,Laticauda colubrina,Fiji,,
+UF,56270,Laticauda semifasciata,Japan,,
+UF,56291,Laticauda semifasciata,Japan,,
+UF,56292,Laticauda semifasciata,Japan,,
+UF,11830,Laticauda colubrina,United States,,
+UF,57881,Laticauda colubrina,Fiji,,
+UF,56271,Laticauda semifasciata,Japan,,
+UF,167970,Laticauda semifasciata,,,
+UF,11831,Laticauda fasciata,,,
+UF,56269,Laticauda semifasciata,Japan,,
+UF,56129,Laticauda colubrina,Fiji,,
+UF,56845,Laticauda colubrina,Fiji,,
+UF,22384,Laticauda colubrina,Philippines,,
+UF,56268,Laticauda semifasciata,Japan,,
+UF,120629,Laticauda semifasciata,United States,,
+UMMZ,50089,Laticauda colubrina,,,
+UMMZ,65950,Laticauda colubrina,Palau,,
+UMZC,R8. 107/1,Laticauda platurus,[Malaysia],,
+UMZC,R8. 107/2,Laticauda platurus,,,
+UMZC,R8. 107/5,Laticauda platurus,[Maldives; Indian Ocean],,
+UMZC,R8. 107/7,Laticauda platurus,,,
+UMZC,R8. 107/8,Laticauda platurus,,,
+UMZC,R8. 107/9,Laticauda platurus,[Panama],,
+USNM,117366,Laticauda laticaudata,,,
+USNM,5542,Laticauda colubrina,Kingdom of Tonga,,
+USNM,117365,Laticauda laticaudata,,,
+USNM,61896,Laticauda schistorhyncha,,,
+USNM,5538,Laticauda laticaudata,Republic of Fiji,,
+USNM,61911,Laticauda schistorhyncha,,,
+USNM,61905,Laticauda schistorhyncha,,,
+USNM,117364,Laticauda laticaudata,,,
+USNM,61903,Laticauda schistorhyncha,,,
+USNM,23740,Laticauda colubrina,,,
+USNM,61908,Laticauda schistorhyncha,,,
+USNM,5528,Laticauda colubrina,Republic of Fiji,,
+USNM,61907,Laticauda schistorhyncha,,,
+USNM,11030,Laticauda colubrina,Australia,,
+USNM,15236,Laticauda colubrina,,,
+USNM,5540,Laticauda colubrina,Republic of Fiji,,
+UTA,7242,Laticauda colubrina,,,
+UTA,7439,Laticauda colubrina,,,
+WAM,R836,Laticauda laticaudata,New Zealand,,
+YPM,YPM HERR 006224,Laticauda laticaudata,China,,
+YPM,YPM HERR 000387,Laticauda laticaudata,China,,
+ZMUC,ZMUC-R66141,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66265,Laticauda laticaudata,Australia,,
+ZMUC,ZMUC-R66136,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66133,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66140,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66132,Laticauda colubrina,Solomon Islands,,
+ZMUC,ZMUC-R66146,Laticauda colubrina,New Caledonia,,
+ZMUC,ZMUC-R66264,Laticauda laticaudata,Unknown,,
+ZMUC,ZMUC-R66266,Laticauda colubrina,Malaysia,,
+ZMUC,ZMUC-R66238,Laticauda colubrina,Unknown,,
+ZMUC,ZMUC-R66135,Laticauda crockeri,Solomon Islands,,
+ZMUC,ZMUC-R66448,Laticauda laticaudata,Unknown,,
+ZMUC,ZMUC-R66257,Laticauda colubrina,Indonesia,,
+ZMUC,ZMUC-R66263,Laticauda laticaudata,India,,
+BPBM,1479,Laticauda,Fiji,,
+BPBM,1601,Laticauda,Fiji,,
+BPBM,1490,Laticauda,Fiji,,
+BYU,7061,Laticauda,Solomon Islands,-9.6508574,160.2297907
+FMNH,259670,Laticauda,Taiwan,,
+SDNHM,67632,Laticauda sp.,Australia,,
+BPBM,1492,Laticauda,Fiji,,
+BPBM,1489,Laticauda,Fiji,,
+BPBM,1478,Laticauda,Fiji,-18.1393,178.444
+BPBM,1491,Laticauda,Fiji,,
+MCZ,R-191196,Laticauda,,,
+MSUM,SH.457,Laticauda,,,
+SDNHM,67633,Laticauda sp.,Australia,,

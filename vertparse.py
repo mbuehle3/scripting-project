@@ -46,7 +46,7 @@ def get_species(VertDf):
     """    
     species = VertDf['scientificname']
     species_num = species.value_counts()
-    return species, species_num
+    return species_num
 
 def search_data(Vertdf,column ,keyword):
     """
@@ -106,7 +106,7 @@ def get_countries(VertDf):
 
     country = VertDf[['country']]
     country_count = country.value_counts()
-    return country, country_count
+    return country_count
 
 def essential_data(VertDf,*argv):
     """
