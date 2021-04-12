@@ -1,6 +1,3 @@
-# To start, we are going to work on local vertnet files that have been downloaded. 
-# Once that is figured out then I will move to figuring out how to access VertNet via an API
-
 import sys
 import csv
 import pandas as pd

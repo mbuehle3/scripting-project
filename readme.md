@@ -18,3 +18,12 @@ Both can be installed using conda install or pip.
 Website for installing [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
 Website and instruction for installing [Basemap](https://anaconda.org/anaconda/basemap) with conda, and building from [source](https://matplotlib.org/basemap/users/installing.html).
 When installing from conda, there are many dependencies and it may take a while for conda to resolve the environment.
+
+## Use 
+
+To load the module either put vertparse.py in your working directly or move your data to the data folder.
+Importing the file is done using:
+``` 
+import vertparse as vp
+```
+as vp is not necessary, but it saves some typing when calling functions.
