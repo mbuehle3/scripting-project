@@ -1,0 +1,154 @@
+institutioncode,catalognumber,scientificname,country,stateprovince,decimallatitude,decimallongitude
+CAS,14997,Laticauda semifasciata,Japan,Okinawa Pref.,24.81083,125.33083
+MCZ,R-25981,Laticauda semifasciata,Japan,Okinawa Prefecture,24.783,125.333
+UCM,UCM:Herp:58881,Laticauda semifasciata,Japan,,35.9999962,137.9999924
+UCM,UCM:Herp:58882,Laticauda semifasciata,Japan,,35.9999962,137.9999924
+USNM,156996,Laticauda semifasciata,Japan,Amami Island Group,28.4639,129.678
+USNM,144184,Laticauda semifasciata,Japan,Okinawa,26.2108,127.688
+USNM,133978,Laticauda semifasciata,Japan,Sakishima Gunto,24.4717,124.221
+USNM,5546,Laticauda semifasciata,Japan,Tokara Island Group,28.7992,128.988
+USNM,7515,Laticauda semifasciata,Japan,Tokara Island Group,28.7992,128.988
+USNM,7336,Laticauda semifasciata,Japan,Tokara Island Group,28.7992,128.988
+AM,R.147677,Laticauda semifasciata,Japan,,24.416,123.766
+AM,R.147678,Laticauda semifasciata,Japan,,24.416,123.766
+AM,R.147687,Laticauda semifasciata,Japan,,24.416,123.766
+CAS,123969,Laticauda semifasciata,Japan,Okinawa Pref.,26.7518527778,128.3287361111
+CAS,22097,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22098,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22099,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+ROM,17487,Laticauda semifasciata,Philippines,Negros Island,9.3120448,123.3105468
+CAS,22093,Laticauda semifasciata,Japan,Okinawa Pref.,26.2183555556,127.6567111111
+CAS,22094,Laticauda semifasciata,Japan,Okinawa Pref.,24.8110833333,125.269675
+CAS,22095,Laticauda semifasciata,Japan,Okinawa Pref.,24.8110833333,125.269675
+CAS,22096,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22100,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22101,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22102,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22103,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,22104,Laticauda semifasciata,Japan,Okinawa Pref.,24.3454861111,124.1355
+CAS,16307,Laticauda semifasciata,Japan,Okinawa Pref.,26.2637722222,127.6968222222
+USNM,167243,Laticauda semifasciata,Indonesia,Lesser Sunda Islands,-8.8,115.105
+CAS,5160,Laticauda semifasciata,Japan,Okinawa Pref.,26.2183555556,127.6567111111
+CAS,5161,Laticauda semifasciata,Japan,Okinawa Pref.,26.2183555556,127.6567111111
+AM,R.101172,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101305,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101242,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101178,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101264,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101171,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101308,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101240,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101306,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101173,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101239,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101179,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101265,Laticauda semifasciata,Japan,,28.333,129.333
+AM,R.101174,Laticauda semifasciata,Japan,,24.75,125.416
+AM,R.101241,Laticauda semifasciata,Japan,,28.333,129.333
+FMNH,202822,Laticauda semifasciata,Philippine Is,,,
+FMNH,120645,Laticauda semifasciata,Formosa,T’ai-tung Hsien,,
+FMNH,202818,Laticauda semifasciata,Philippine Is,,,
+FMNH,202815,Laticauda semifasciata,Philippine Is,,,
+UCM,UCM:Herp:58884,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+UCM,UCM:Herp:58885,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+UCM,UCM:Herp:58887,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+UCM,UCM:Herp:58888,Laticauda semifasciata,Philippines,,,
+UCM,UCM:Herp:58890,Laticauda semifasciata ?,,,,
+UCM,UCM:Herp:58891,Laticauda semifasciata ?,,,,
+UF,56252,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120633,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120634,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56288,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56262,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56256,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56274,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120631,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120630,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56254,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56290,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56260,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56264,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56289,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56265,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120635,Laticauda semifasciata,Japan,Kagoshima-ken,,
+USNM,37360,Laticauda semifasciata,Philippines,Sulu Island,,
+FMNH,202823,Laticauda semifasciata,Philippine Is,,,
+FMNH,75169,Laticauda semifasciata,,Riukiu Islands,,
+FMNH,202820,Laticauda semifasciata,Philippine Is,,,
+FMNH,202819,Laticauda semifasciata,Philippine Is,,,
+FMNH,202821,Laticauda semifasciata,Philippine Is,,,
+FMNH,120644,Laticauda semifasciata,Formosa,T’ai-tung Hsien,,
+FMNH,202817,Laticauda semifasciata,Philippine Is,,,
+FMNH,202816,Laticauda semifasciata,Philippine Is,,,
+UCM,UCM:Herp:58883,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+UCM,UCM:Herp:58886,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+UCM,UCM:Herp:58889,Laticauda semifasciata,Philippines,,,
+UCM,UCM:Herp:58892,Laticauda semifasciata ?,,,,
+UF,56253,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56259,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56255,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56273,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56257,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,28807,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56287,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56263,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56261,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56258,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120632,Laticauda semifasciata,Japan,Kagoshima-ken,,
+USNM,291833,Laticauda semifasciata,Taiwan,Lanyu Island,,
+USNM,291832,Laticauda semifasciata,Taiwan,Lanyu Island,,
+LACM,129648,Laticauda semifasciata,Philippines,,,
+LACM,129647,Laticauda semifasciata,Philippines,,,
+LSUMZ,24807,Laticauda semifasciata,Japan,Kagoshima Prefecture,,
+LSUMZ,19359,Laticauda semifasciata,Taiwan,T'ai-tung County,,
+LSUMZ,24806,Laticauda semifasciata,Japan,Okinawa Prefecture,,
+USNM,134223,Laticauda semifasciata,Taiwan,Tai Tung Hsien,,
+USNM,134224,Laticauda semifasciata,Taiwan,Tai Tung Hsien,,
+FMNH,120654,Laticauda semifasciata,Formosa,,,
+FMNH,120648,Laticauda semifasciata,Formosa,,,
+FMNH,120650,Laticauda semifasciata,Formosa,,,
+USNM,133980,Laticauda semifasciata,Japan,,,
+FMNH,120646,Laticauda semifasciata,Formosa,,,
+FMNH,120647,Laticauda semifasciata,Formosa,,,
+FMNH,120649,Laticauda semifasciata,Formosa,,,
+FMNH,120651,Laticauda semifasciata,Formosa,,,
+FMNH,120653,Laticauda semifasciata,Formosa,,,
+FMNH,120652,Laticauda semifasciata,Formosa,,,
+AMNH,R-140374,Laticauda semifasciata,,,,
+AMNH,R-160149,Laticauda semifasciata,,,,
+AMNH,R-161779,Laticauda semifasciata,Philippines,Visayan Islands,,
+FMNH,202824,Laticauda semifasciata,,,,
+FMNH,106060,Laticauda semifasciata,,,,
+NHMUK,1954.1.3.53,"Laticauda semifasciata (Reinwardt, 1837)",Taiwan,,,
+NHMUK,1906.8.16.47,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,,
+NHMUK,1887.1.31.35,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,,
+SDNHM,67201,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67202,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67205,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67207,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67208,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67526,Laticauda semifasciata,,,,
+SDNHM,67527,Laticauda semifasciata,,,,
+SDNHM,67624,Laticauda semifasciata,China,Guangdong,,
+UF,56266,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56267,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56272,Laticauda semifasciata,Japan,Kagoshima-ken,,
+USNM,7380,Laticauda semifasciata,Japan,,,
+UTA,41025,Laticauda semifasciata,Philippines,,,
+AMNH,R-140375,Laticauda semifasciata,,,,
+NHMUK,1906.8.16.30-33,"Laticauda semifasciata (Reinwardt in  Schlegel, 1837)",Japan,,,
+NHMUK,1978.981-985,Laticauda semifasciata,Japan,,,
+SDNHM,67203,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67204,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67206,Laticauda semifasciata,Japan,Ryukyu Islands,,
+SDNHM,67524,Laticauda semifasciata,,,,
+SDNHM,67525,Laticauda semifasciata,,,,
+SDNHM,67528,Laticauda semifasciata,,,,
+UF,56270,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56291,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56292,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56271,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,167970,Laticauda semifasciata,,,,
+UF,56269,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,56268,Laticauda semifasciata,Japan,Kagoshima-ken,,
+UF,120629,Laticauda semifasciata,United States,Florida,,

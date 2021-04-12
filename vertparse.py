@@ -25,13 +25,13 @@ def clean_VertData(VertDf):
     data = VertDf.dropna(how='all', axis = 1 , inplace=False)
     return data
 
-def write_VertData(VertDf):
+def write_VertData(VertDf,filename = 'output.txt'):
     """
     Write the pandas dataframe to an external file. 
     Useful for exporting cleaned datafiles for easier file manipulation in excel or libreoffice
     """
     # print(sys.argvs[2])
-    VertDf.to_csv('output.txt', header = True, index = False)
+    VertDf.to_csv(filename, header = True, index = False)
    
 def get_coord(VertDf):
     """
@@ -105,7 +105,8 @@ def get_countries(VertDf):
     """
 
     country = VertDf[['country']]
-    return country
+    country_count = country.value_counts()
+    return country, country_count
 
 def essential_data(VertDf,*argv):
     """
